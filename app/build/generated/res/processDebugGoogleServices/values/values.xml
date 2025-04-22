@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://woman-safety-application-d824a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">978524122724</string>
+    <string name="google_api_key" translatable="false">AIzaSyAGxFYaT8Pe9578B-cIgYKwNHMJ4MMYrKs</string>
+    <string name="google_app_id" translatable="false">1:978524122724:android:590b6011ab6f9ee2127971</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAGxFYaT8Pe9578B-cIgYKwNHMJ4MMYrKs</string>
+    <string name="google_storage_bucket" translatable="false">woman-safety-application-d824a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">woman-safety-application-d824a</string>
+</resources>

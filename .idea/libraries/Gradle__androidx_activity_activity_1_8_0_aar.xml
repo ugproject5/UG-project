@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.8.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/eb17ca8d4b8806e04240001dd97c5fe7/transformed/activity-1.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/eb17ca8d4b8806e04240001dd97c5fe7/transformed/activity-1.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/transforms/eb17ca8d4b8806e04240001dd97c5fe7/transformed/activity-1.8.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

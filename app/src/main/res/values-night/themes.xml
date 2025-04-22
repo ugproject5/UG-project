@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.Girly" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+    <!-- Dark mode adaptations -->
+        <item name="colorPrimary">@color/hot_pink</item>
+        <item name="colorPrimaryVariant">@color/deep_pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:colorBackground">@color/dark_gray</item>
+
+        <!-- Keep light blue secondary in dark mode -->
+        <item name="colorSecondary">@color/light_blue</item>
+    </style>
+</resources>

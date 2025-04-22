@@ -1,0 +1,44 @@
+<changelist name="Changes" date="1745353850681" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xxhdpi/app_logo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/app_logo.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/ic_community.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_community.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/ic_launcher-playstore.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher-playstore.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_foreground.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_foreground1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_foreground2.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_foreground3.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_foreground4.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/ic_profile.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_profile.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/ic_watch.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_watch.png" />
+  </binary>
+</changelist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Girly" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+    
+        <item name="colorPrimary">@color/hot_pink</item>
+        <item name="colorPrimaryVariant">@color/deep_pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:colorBackground">@color/dark_gray</item>
+
+        
+        <item name="colorSecondary">@color/light_blue</item>
+    </style>
+</resources>

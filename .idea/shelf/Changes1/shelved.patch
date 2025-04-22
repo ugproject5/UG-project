@@ -1,0 +1,3337 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1742546745344)
++++ b/.idea/vcs.xml	(date 1742546745344)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/studiobot.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/studiobot.xml b/.idea/studiobot.xml
+new file mode 100644
+--- /dev/null	(date 1742390016295)
++++ b/.idea/studiobot.xml	(date 1742390016295)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="StudioBotProjectSettings">
++    <option name="shareContext" value="OptedIn" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/deploymentTargetSelector.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/deploymentTargetSelector.xml b/.idea/deploymentTargetSelector.xml
+new file mode 100644
+--- /dev/null	(date 1745354923504)
++++ b/.idea/deploymentTargetSelector.xml	(date 1745354923504)
+@@ -0,0 +1,33 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="deploymentTargetSelector">
++    <selectionStates>
++      <SelectionState runConfigName="app">
++        <option name="selectionMode" value="DROPDOWN" />
++      </SelectionState>
++      <SelectionState runConfigName="MainActivity (1)">
++        <option name="selectionMode" value="DROPDOWN" />
++      </SelectionState>
++      <SelectionState runConfigName="MainActivity">
++        <option name="selectionMode" value="DROPDOWN" />
++      </SelectionState>
++      <SelectionState runConfigName="MainActivity (2)">
++        <option name="selectionMode" value="DROPDOWN" />
++      </SelectionState>
++      <SelectionState runConfigName="MainActivity (3)">
++        <option name="selectionMode" value="DROPDOWN" />
++        <DropdownSelection timestamp="2025-04-22T20:47:08.797001700Z">
++          <Target type="DEFAULT_BOOT">
++            <handle>
++              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\mspan\.android\avd\Pixel_9_API_35.avd" />
++            </handle>
++          </Target>
++        </DropdownSelection>
++        <DialogSelection />
++      </SelectionState>
++      <SelectionState runConfigName="MainActivity (5)">
++        <option name="selectionMode" value="DROPDOWN" />
++      </SelectionState>
++    </selectionStates>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/appInsightsSettings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/appInsightsSettings.xml b/.idea/appInsightsSettings.xml
+new file mode 100644
+--- /dev/null	(date 1745354613415)
++++ b/.idea/appInsightsSettings.xml	(date 1745354613415)
+@@ -0,0 +1,27 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AppInsightsSettings">
++    <option name="selectedTabId" value="Android Vitals" />
++    <option name="tabSettings">
++      <map>
++        <entry key="Firebase Crashlytics">
++          <value>
++            <InsightsFilterSettings>
++              <option name="connection">
++                <ConnectionSetting>
++                  <option name="appId" value="com.pant.girly" />
++                  <option name="mobileSdkAppId" value="1:978524122724:android:590b6011ab6f9ee2127971" />
++                  <option name="projectId" value="woman-safety-application-d824a" />
++                  <option name="projectNumber" value="978524122724" />
++                </ConnectionSetting>
++              </option>
++              <option name="signal" value="SIGNAL_UNSPECIFIED" />
++              <option name="timeIntervalDays" value="THIRTY_DAYS" />
++              <option name="visibilityType" value="ALL" />
++            </InsightsFilterSettings>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/runConfigurations.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations.xml b/.idea/runConfigurations.xml
+new file mode 100644
+--- /dev/null	(date 1742273489926)
++++ b/.idea/runConfigurations.xml	(date 1742273489926)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RunConfigurationProducerService">
++    <option name="ignoredProducers">
++      <set>
++        <option value="com.intellij.execution.junit.AbstractAllInDirectoryConfigurationProducer" />
++        <option value="com.intellij.execution.junit.AllInPackageConfigurationProducer" />
++        <option value="com.intellij.execution.junit.PatternConfigurationProducer" />
++        <option value="com.intellij.execution.junit.TestInClassConfigurationProducer" />
++        <option value="com.intellij.execution.junit.UniqueIdConfigurationProducer" />
++        <option value="com.intellij.execution.junit.testDiscovery.JUnitTestDiscoveryConfigurationProducer" />
++        <option value="org.jetbrains.kotlin.idea.junit.KotlinJUnitRunConfigurationProducer" />
++        <option value="org.jetbrains.kotlin.idea.junit.KotlinPatternConfigurationProducer" />
++      </set>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: gradle/wrapper/gradle-wrapper.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/gradle/wrapper/gradle-wrapper.properties b/gradle/wrapper/gradle-wrapper.properties
+new file mode 100644
+--- /dev/null	(date 1742273373781)
++++ b/gradle/wrapper/gradle-wrapper.properties	(date 1742273373781)
+@@ -0,0 +1,6 @@
++#Tue Mar 18 10:19:33 IST 2025
++distributionBase=GRADLE_USER_HOME
++distributionPath=wrapper/dists
++distributionUrl=https\://services.gradle.org/distributions/gradle-8.10.2-bin.zip
++zipStoreBase=GRADLE_USER_HOME
++zipStorePath=wrapper/dists
+Index: app/src/main/res/A.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/A.java b/app/src/main/res/A.java
+new file mode 100644
+--- /dev/null	(date 1742285179784)
++++ b/app/src/main/res/A.java	(date 1742285179784)
+@@ -0,0 +1,23 @@
++Unable to open '/data/data/com.pant.girly/code_cache/.overlay/base.apk/classes3.dm': No such file or directory
++2025-03-18 13:32:57.339  8715-8715  ziparchive              com.pant.girly                       W  Unable to open '/data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/base.dm': No such file or directory
++2025-03-18 13:32:57.339  8715-8715  ziparchive              com.pant.girly                       W  Unable to open '/data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/base.dm': No such file or directory
++2025-03-18 13:32:57.579  8715-8715  nativeloader            com.pant.girly                       D  Configuring clns-7 for other apk /data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/base.apk. target_sdk_version=34, uses_libraries=, library_path=/data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.pant.girly
++2025-03-18 13:32:57.614  8715-8715  GraphicsEnvironment     com.pant.girly                       V  Currently set values for:
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V    angle_gl_driver_selection_pkgs=[]
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V    angle_gl_driver_selection_values=[]
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V  Global.Settings values are invalid: number of packages: 0, number of values: 0
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V  Neither updatable production driver nor prerelease driver is supported.
++2025-03-18 13:32:57.648  8715-8715  FirebaseApp             com.pant.girly                       W  Default FirebaseApp failed to initialize because no default options were found. This usually means that com.google.gms:google-services was not applied to your gradle project.
++2025-03-18 13:32:57.648  8715-8715  FirebaseInitProvider    com.pant.girly                       I  FirebaseApp initialization unsuccessful
++2025-03-18 13:32:57.809  8715-8715  AppCompatDelegate       com.pant.girly                       D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
++2025-03-18 13:32:58.001  8715-8715  com.pant.girly          com.pant.girly                       W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
++2025-03-18 13:32:58.001  8715-8715  com.pant.girly          com.pant.girly                       W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
++2025-03-18 13:32:58.116  8715-8715  HWUI                    com.pant.girly                       W  Unknown dataspace 0
++2025-03-18 13:32:58.189  8715-8731  EGL_emulation           com.pant.girly                       I  Opening libGLESv1_CM_emulation.so
++2025-03-18 13:32:58.194  8715-8731  EGL_emulation           com.pant.girly                       I  Opening libGLESv2_emulation.so
++2025-03-18 13:32:58.225  8715-8731  HWUI                    com.pant.girly                       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
++2025-03-18 13:32:58.226  8715-8731  HWUI                    com.pant.girly                       W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
++2025-03-18 13:32:58.281  8715-8731  Gralloc4                com.pant.girly                       I  mapper 4.x is not supported
++2025-03-18 13:32:58.479  8715-8720  com.pant.girly          com.pant.girly                       I  Compiler allocated 4219KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
++2025-03-18 13:32:59.064  8715-8720  com.pant.girly          com.pant.girly                       I  Compiler allocated 5174KB to compile void android.view.ViewRootImpl.performTraversals()
++2025-03-18 13:33:02.924  8715-8742  ProfileInstaller        com.pant.girly                       D  Installing profile for com.pant.girly
+Index: app/src/main/res/layout/activity_profile.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_profile.xml b/app/src/main/res/layout/activity_profile.xml
+new file mode 100644
+--- /dev/null	(date 1745350969121)
++++ b/app/src/main/res/layout/activity_profile.xml	(date 1745350969121)
+@@ -0,0 +1,116 @@
++<?xml version="1.0" encoding="utf-8"?>
++<androidx.coordinatorlayout.widget.CoordinatorLayout
++    xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    xmlns:tools="http://schemas.android.com/tools"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:background="@color/white"
++    tools:context=".ProfileActivity">
++
++    <!-- AppBar with Toolbar -->
++    <com.google.android.material.appbar.AppBarLayout
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:background="@drawable/rounded_toolbar_bg"
++        android:elevation="4dp">
++
++        <androidx.appcompat.widget.Toolbar
++            android:id="@+id/toolbar"
++            android:layout_width="match_parent"
++            android:layout_height="?attr/actionBarSize"
++            android:background="@android:color/transparent"
++            app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
++
++            <TextView
++                android:id="@+id/toolbar_title"
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:layout_gravity="center"
++                android:text="My Profile"
++                android:textColor="@android:color/white"
++                android:textSize="20sp"
++                android:textStyle="bold" />
++        </androidx.appcompat.widget.Toolbar>
++    </com.google.android.material.appbar.AppBarLayout>
++
++    <!-- Scrollable Content -->
++    <androidx.core.widget.NestedScrollView
++        android:layout_width="match_parent"
++        android:layout_height="match_parent"
++        app:layout_behavior="@string/appbar_scrolling_view_behavior">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:orientation="vertical"
++            android:padding="16dp">
++
++            <!-- Profile Card -->
++            <com.google.android.material.card.MaterialCardView
++                android:layout_width="match_parent"
++                android:layout_height="wrap_content"
++                android:layout_marginTop="8dp"
++                app:cardCornerRadius="16dp"
++                app:cardElevation="4dp"
++                app:strokeColor="@color/light_gray"
++                app:strokeWidth="1dp">
++
++                <LinearLayout
++                    android:layout_width="match_parent"
++                    android:layout_height="wrap_content"
++                    android:orientation="horizontal"
++                    android:gravity="center_vertical"
++                    android:padding="20dp">
++
++                    <!-- Profile Image -->
++                    <ImageView
++                        android:id="@+id/ivProfileImage"
++                        android:layout_width="100dp"
++                        android:layout_height="100dp"
++                        android:layout_marginEnd="16dp"
++                        android:contentDescription="Profile image"
++                        android:scaleType="centerCrop"
++                        android:src="@drawable/default_profile"
++                        android:background="@drawable/circle_bg"
++                        android:elevation="4dp"/>
++
++                    <!-- User Info -->
++                    <LinearLayout
++                        android:layout_width="0dp"
++                        android:layout_height="wrap_content"
++                        android:layout_weight="1"
++                        android:orientation="vertical">
++
++                        <TextView
++                            android:id="@+id/tvUserName"
++                            android:layout_width="wrap_content"
++                            android:layout_height="wrap_content"
++                            android:text="User Name"
++                            android:textSize="20sp"
++                            android:textStyle="bold"
++                            android:textColor="@color/black"/>
++
++                        <TextView
++                            android:id="@+id/tvUserEmail"
++                            android:layout_width="wrap_content"
++                            android:layout_height="wrap_content"
++                            android:layout_marginTop="4dp"
++                            android:text="user@example.com"
++                            android:textSize="14sp"
++                            android:textColor="@color/dark_gray"/>
++                    </LinearLayout>
++                </LinearLayout>
++            </com.google.android.material.card.MaterialCardView>
++
++            <!-- Profile Options RecyclerView -->
++            <androidx.recyclerview.widget.RecyclerView
++                android:id="@+id/rvProfileOptions"
++                android:layout_width="match_parent"
++                android:layout_height="wrap_content"
++                android:layout_marginTop="16dp"
++                android:clipToPadding="false"
++                android:paddingBottom="16dp"/>
++        </LinearLayout>
++    </androidx.core.widget.NestedScrollView>
++</androidx.coordinatorlayout.widget.CoordinatorLayout>
+\ No newline at end of file
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_main.xml b/app/src/main/res/layout/activity_main.xml
+new file mode 100644
+--- /dev/null	(date 1745346001259)
++++ b/app/src/main/res/layout/activity_main.xml	(date 1745346001259)
+@@ -0,0 +1,233 @@
++<?xml version="1.0" encoding="utf-8"?>
++<androidx.constraintlayout.widget.ConstraintLayout
++    xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    xmlns:tools="http://schemas.android.com/tools"
++    android:id="@+id/mainConstraint"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:background="#FFF0F5"
++    tools:context=".MainActivity">
++
++    <!-- Welcome Message (Now at top since toolbar is removed) -->
++    <TextView
++        android:id="@+id/welcomeTextView"
++        android:layout_width="wrap_content"
++        android:layout_height="wrap_content"
++        android:text="Welcome!"
++        android:textSize="22sp"
++        android:textStyle="bold"
++        android:fontFamily="sans-serif-medium"
++        android:textColor="#333333"
++        android:layout_marginTop="20dp"
++        app:layout_constraintTop_toTopOf="parent"
++        app:layout_constraintStart_toStartOf="parent"
++        app:layout_constraintEnd_toEndOf="parent"/>
++
++    <!-- SOS Button -->
++    <Button
++        android:id="@+id/sosButton"
++        android:layout_width="120dp"
++        android:layout_height="120dp"
++        android:text="SOS"
++        android:textSize="20sp"
++        android:textStyle="bold"
++        android:textColor="@android:color/white"
++        android:background="@drawable/sos_button_background"
++        app:layout_constraintTop_toBottomOf="@id/welcomeTextView"
++        app:layout_constraintBottom_toTopOf="@id/cardWatch"
++        app:layout_constraintStart_toStartOf="parent"
++        app:layout_constraintEnd_toEndOf="parent"
++        android:layout_marginTop="20dp"/>
++
++    <!-- 1. Live Tracking Card -->
++    <androidx.cardview.widget.CardView
++        android:id="@+id/cardLiveTracking"
++        android:layout_width="110dp"
++        android:layout_height="75dp"
++        android:layout_margin="6dp"
++        android:backgroundTint="#E1F5FE"
++        app:cardCornerRadius="20dp"
++        app:cardElevation="8dp"
++        app:layout_constraintBottom_toTopOf="@id/sosButton"
++        app:layout_constraintEnd_toStartOf="@id/sosButton">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="match_parent"
++            android:gravity="center"
++            android:orientation="horizontal">
++
++            <ImageView
++                android:layout_width="26dp"
++                android:layout_height="26dp"
++                android:src="@drawable/ic_tracking"
++                android:layout_marginEnd="6dp"/>
++
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Live Tracking"
++                android:textSize="15sp"
++                android:textStyle="bold"
++                android:fontFamily="sans-serif-condensed"
++                android:textColor="#000" />
++        </LinearLayout>
++    </androidx.cardview.widget.CardView>
++
++    <!-- 2. Anonymous Report -->
++    <androidx.cardview.widget.CardView
++        android:id="@+id/cardAnonymousReport"
++        android:layout_width="110dp"
++        android:layout_height="75dp"
++        android:layout_margin="6dp"
++        android:backgroundTint="#FBE1F0"
++        app:cardCornerRadius="20dp"
++        app:cardElevation="8dp"
++        app:layout_constraintBottom_toTopOf="@id/sosButton"
++        app:layout_constraintStart_toEndOf="@id/sosButton">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="match_parent"
++            android:gravity="center"
++            android:orientation="horizontal">
++
++            <ImageView
++                android:layout_width="26dp"
++                android:layout_height="26dp"
++                android:src="@drawable/ic_anonymous"
++                android:layout_marginEnd="6dp"/>
++
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Anonymous Report"
++                android:textSize="15sp"
++                android:textStyle="bold"
++                android:fontFamily="sans-serif-condensed"
++                android:textColor="#000" />
++        </LinearLayout>
++    </androidx.cardview.widget.CardView>
++
++    <!-- 3. Safety Switch -->
++    <androidx.cardview.widget.CardView
++        android:id="@+id/cardSafetySwitch"
++        android:layout_width="110dp"
++        android:layout_height="75dp"
++        android:layout_margin="6dp"
++        android:backgroundTint="#E0FBE7"
++        app:cardCornerRadius="20dp"
++        app:cardElevation="8dp"
++        app:layout_constraintTop_toBottomOf="@id/sosButton"
++        app:layout_constraintEnd_toStartOf="@id/sosButton">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="match_parent"
++            android:gravity="center"
++            android:orientation="horizontal">
++
++            <ImageView
++                android:layout_width="26dp"
++                android:layout_height="26dp"
++                android:src="@drawable/ic_safety"
++                android:layout_marginEnd="6dp"/>
++
++            <Switch
++                android:id="@+id/safetyModeSwitch"
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"/>
++        </LinearLayout>
++    </androidx.cardview.widget.CardView>
++
++    <!-- 4. Emergency Contacts -->
++    <androidx.cardview.widget.CardView
++        android:id="@+id/cardEmergencyContacts"
++        android:layout_width="110dp"
++        android:layout_height="75dp"
++        android:layout_margin="6dp"
++        android:backgroundTint="#FFE5EC"
++        app:cardCornerRadius="20dp"
++        app:cardElevation="8dp"
++        app:layout_constraintTop_toBottomOf="@id/sosButton"
++        app:layout_constraintStart_toEndOf="@id/sosButton">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="match_parent"
++            android:gravity="center"
++            android:orientation="horizontal">
++
++            <ImageView
++                android:layout_width="26dp"
++                android:layout_height="26dp"
++                android:src="@drawable/ic_contacts"
++                android:layout_marginEnd="6dp"/>
++
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Contacts"
++                android:textSize="15sp"
++                android:textStyle="bold"
++                android:fontFamily="sans-serif-condensed"
++                android:textColor="#000" />
++        </LinearLayout>
++    </androidx.cardview.widget.CardView>
++
++    <!-- Smart Watch Add Card -->
++    <androidx.cardview.widget.CardView
++        android:id="@+id/cardWatch"
++        android:layout_width="0dp"
++        android:layout_height="wrap_content"
++        android:layout_marginStart="12dp"
++        android:layout_marginEnd="12dp"
++        android:layout_marginTop="10dp"
++        android:layout_marginBottom="14dp"
++        android:backgroundTint="#F0F8FF"
++        app:cardCornerRadius="20dp"
++        app:cardElevation="8dp"
++        app:layout_constraintTop_toBottomOf="@id/sosButton"
++        app:layout_constraintStart_toStartOf="parent"
++        app:layout_constraintEnd_toEndOf="parent"
++        app:layout_constraintBottom_toTopOf="@id/bottom_navigation">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:padding="14dp"
++            android:orientation="horizontal"
++            android:gravity="center_vertical">
++
++            <ImageView
++                android:layout_width="28dp"
++                android:layout_height="28dp"
++                android:src="@drawable/ic_watch"
++                android:layout_marginEnd="10dp"/>
++
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Add Smart Watch"
++                android:textSize="17sp"
++                android:textStyle="bold"
++                android:fontFamily="sans-serif-medium"
++                android:textColor="#000" />
++        </LinearLayout>
++    </androidx.cardview.widget.CardView>
++
++    <!-- Bottom Navigation View -->
++    <com.google.android.material.bottomnavigation.BottomNavigationView
++        android:id="@+id/bottom_navigation"
++        android:layout_width="0dp"
++        android:layout_height="wrap_content"
++        android:background="@drawable/bg_bottom_nav_curve"
++        android:layout_marginBottom="0dp"
++        app:layout_constraintBottom_toBottomOf="parent"
++        app:layout_constraintStart_toStartOf="parent"
++        app:layout_constraintEnd_toEndOf="parent"
++        app:menu="@menu/bottom_nav_menu"
++        app:itemIconTint="@color/deep_pink"
++        app:itemTextColor="@color/deep_pink"/>
++</androidx.constraintlayout.widget.ConstraintLayout>
+\ No newline at end of file
+Index: gradle/libs.versions.toml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/gradle/libs.versions.toml b/gradle/libs.versions.toml
+new file mode 100644
+--- /dev/null	(date 1743535688300)
++++ b/gradle/libs.versions.toml	(date 1743535688300)
+@@ -0,0 +1,30 @@
++[versions]
++agp = "8.8.0"
++kotlin = "1.9.24"
++coreKtx = "1.15.0"
++junit = "4.13.2"
++junitVersion = "1.2.1"
++espressoCore = "3.6.1"
++appcompat = "1.7.0"
++material = "1.12.0"
++cardview = "1.0.0"
++preference = "1.2.0"
++playServicesLocation = "21.3.0"
++playServicesMaps = "19.1.0"
++
++[libraries]
++androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
++junit = { group = "junit", name = "junit", version.ref = "junit" }
++androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
++androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
++androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
++material = { group = "com.google.android.material", name = "material", version.ref = "material" }
++androidx-cardview = { group = "androidx.cardview", name = "cardview", version.ref = "cardview" }
++androidx-preference = { group = "androidx.preference", name = "preference", version.ref = "preference" }
++play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
++play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "playServicesMaps" }
++
++[plugins]
++android-application = { id = "com.android.application", version.ref = "agp" }
++kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
++
+Index: app/src/main/res/layout/activity_signup.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_signup.xml b/app/src/main/res/layout/activity_signup.xml
+new file mode 100644
+--- /dev/null	(date 1744993637003)
++++ b/app/src/main/res/layout/activity_signup.xml	(date 1744993637003)
+@@ -0,0 +1,179 @@
++<?xml version="1.0" encoding="utf-8"?>
++<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    android:id="@+id/scrollView"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:background="#FFF0F5"
++    android:padding="20dp">
++
++    <LinearLayout
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:orientation="vertical"
++        android:gravity="center_horizontal">
++
++        <!-- App Logo -->
++        <ImageView
++            android:id="@+id/imgLogo"
++            android:layout_width="100dp"
++            android:layout_height="100dp"
++            android:src="@drawable/app_logo"
++            android:layout_marginTop="20dp"
++            android:contentDescription="App Logo"
++            android:layout_gravity="center" />
++
++        <!-- Title -->
++        <TextView
++            android:id="@+id/tvTitle"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Create Account"
++            android:textSize="24sp"
++            android:textColor="#C2185B"
++            android:textStyle="bold"
++            android:layout_marginTop="16dp"
++            android:layout_marginBottom="16dp" />
++
++        <!-- Email -->
++        <EditText
++            android:id="@+id/etEmail"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:hint="Email"
++            android:inputType="textEmailAddress"
++            android:background="@drawable/edittext_bg"
++            android:padding="12dp"
++            android:drawableStart="@drawable/ic_email"
++            android:drawablePadding="10dp"
++            android:textColor="#000"
++            android:textColorHint="#888" />
++
++        <!-- Mobile -->
++        <EditText
++            android:id="@+id/etMobile"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:hint="Mobile Number"
++            android:inputType="phone"
++            android:background="@drawable/edittext_bg"
++            android:padding="12dp"
++            android:layout_marginTop="12dp"
++            android:drawableStart="@drawable/ic_phone"
++            android:drawablePadding="10dp"
++            android:maxLength="10"
++            android:textColor="#000"
++            android:textColorHint="#888" />
++
++        <!-- Password -->
++        <RelativeLayout
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:layout_marginTop="12dp">
++
++            <EditText
++                android:id="@+id/etPassword"
++                android:layout_width="match_parent"
++                android:layout_height="match_parent"
++                android:hint="Password"
++                android:inputType="textPassword"
++                android:background="@drawable/edittext_bg"
++                android:padding="12dp"
++                android:textColor="#000"
++                android:textColorHint="#888" />
++
++            <ImageView
++                android:id="@+id/imgShowHidePassword"
++                android:layout_width="24dp"
++                android:layout_height="24dp"
++                android:src="@drawable/ic_eye_closed"
++                android:layout_alignParentEnd="true"
++                android:layout_centerVertical="true"
++                android:layout_marginEnd="12dp" />
++        </RelativeLayout>
++
++        <!-- Confirm Password -->
++        <RelativeLayout
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:layout_marginTop="12dp">
++
++            <EditText
++                android:id="@+id/etConfirmPassword"
++                android:layout_width="match_parent"
++                android:layout_height="match_parent"
++                android:hint="Confirm Password"
++                android:inputType="textPassword"
++                android:background="@drawable/edittext_bg"
++                android:padding="12dp"
++                android:textColor="#000"
++                android:textColorHint="#888" />
++
++            <ImageView
++                android:id="@+id/imgShowHideConfirmPassword"
++                android:layout_width="24dp"
++                android:layout_height="24dp"
++                android:src="@drawable/ic_eye_closed"
++                android:layout_alignParentEnd="true"
++                android:layout_centerVertical="true"
++                android:layout_marginEnd="12dp" />
++        </RelativeLayout>
++
++        <!-- OTP Checkbox -->
++        <CheckBox
++            android:id="@+id/chkOtpVerification"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Enable OTP Verification"
++            android:textColor="#555"
++            android:layout_marginTop="16dp" />
++
++        <!-- OTP Field -->
++        <EditText
++            android:id="@+id/etOtp"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:hint="Enter OTP"
++            android:inputType="number"
++            android:background="@drawable/edittext_bg"
++            android:padding="12dp"
++            android:layout_marginTop="8dp"
++            android:textColor="#000"
++            android:textColorHint="#888"
++            android:visibility="gone" />
++
++        <!-- Get OTP Button -->
++        <Button
++            android:id="@+id/btnGetOtp"
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:text="Get OTP"
++            android:textAllCaps="false"
++            android:layout_marginTop="8dp"
++            android:visibility="gone"
++            android:backgroundTint="#C2185B"
++            android:textColor="#fff" />
++
++        <!-- Sign Up Button -->
++        <Button
++            android:id="@+id/btnSignUp"
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:text="Sign Up"
++            android:textAllCaps="false"
++            android:layout_marginTop="20dp"
++            android:backgroundTint="#C2185B"
++            android:textColor="#fff" />
++
++        <!-- Already have account -->
++        <TextView
++            android:id="@+id/tvLogin"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Already have an account? Log In"
++            android:textColor="#1976D2"
++            android:textSize="14sp"
++            android:layout_marginTop="20dp"
++            android:layout_gravity="center" />
++    </LinearLayout>
++</ScrollView>
+Index: app/src/main/res/values/arrays.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/arrays.xml b/app/src/main/res/values/arrays.xml
+new file mode 100644
+--- /dev/null	(date 1743601842981)
++++ b/app/src/main/res/values/arrays.xml	(date 1743601842981)
+@@ -0,0 +1,4 @@
++<resources>
++    <!-- Reply Preference -->
++
++</resources>
+\ No newline at end of file
+Index: app/src/main/res/values/colors.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/colors.xml b/app/src/main/res/values/colors.xml
+new file mode 100644
+--- /dev/null	(date 1745354090334)
++++ b/app/src/main/res/values/colors.xml	(date 1745354090334)
+@@ -0,0 +1,46 @@
++<?xml version="1.0" encoding="utf-8"?>
++<resources>
++
++        <color name="colorPrimary">#E91E63</color> <!-- Deep pink -->
++        <color name="colorPrimaryDark">#C2185B</color>
++        <color name="colorAccent">#FF4081</color>
++        <!-- Add other colors if needed -->
++
++
++    <!-- Pink Theme Colors -->
++    <color name="deep_pink">#FF1493</color>
++    <color name="hot_pink">#FF69B4</color>
++
++    <!-- Blue Theme Colors -->
++    <color name="light_blue">#ADD8E6</color>
++    <color name="sky_blue">#87CEEB</color>
++
++    <!-- Basic Colors (for compatibility) -->
++    <color name="purple_500">#FF6200EE</color>
++    <color name="black">#FF000000</color>
++    <color name="white">#FFFFFFFF</color>
++    <color name="gray">#9E9E9E</color>
++    <color name="red">#FF0000</color>
++    <color name="light_pink">#FFB6C1</color>
++    <color name="light_gray">#D3D3D3</color>
++    <color name="icon_tint">#6200EE</color>
++
++
++
++    <!-- Functional Colors -->
++    <color name="sos_red">#FF3E3E</color>
++    <color name="soft_white">#FFF9FB</color>
++    <color name="dark_gray">#333333</color>
++    <!-- Add to res/values/colors.xml -->
++    <color name="green">#4CAF50</color>
++    <color name="orange">#FF9800</color>
++
++    <!-- Navigation Colors -->
++    <color name="nav_icon_selected">@color/deep_pink</color>
++    <color name="nav_icon_unselected">@color/gray</color>
++    <color name="nav_text_selected">@color/deep_pink</color>
++    <color name="nav_text_unselected">@color/black</color>
++    <color name="nav_background">@color/white</color>
++    <color name="pink_500">#E91E63</color>
++
++</resources>
+\ No newline at end of file
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/strings.xml b/app/src/main/res/values/strings.xml
+new file mode 100644
+--- /dev/null	(date 1745354051499)
++++ b/app/src/main/res/values/strings.xml	(date 1745354051499)
+@@ -0,0 +1,24 @@
++<resources>
++    <string name="app_name">Girly</string>
++    <string name="firebase_database_url">https://woman-safety-application-d824a-default-rtdb.firebaseio.com/</string>
++
++
++    <!-- Preference Titles -->
++    <style name="PinkButtonStyle" parent="Widget.MaterialComponents.Button">
++        <item name="android:textColor">@color/white</item>
++        <item name="backgroundTint">@color/pink_500</item>
++        <item name="cornerRadius">8dp</item>
++    </style>
++
++    <style name="PinkFabStyle" parent="Widget.MaterialComponents.FloatingActionButton">
++        <item name="backgroundTint">@color/pink_500</item>
++        <item name="tint">@color/white</item>
++        <item name="elevation">6dp</item>
++    </style>
++
++    <!-- Messages Preferences -->
++
++    <!-- Sync Preferences -->
++
++
++</resources>
+Index: app/google-services.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/google-services.json b/app/google-services.json
+new file mode 100644
+--- /dev/null	(date 1743935388506)
++++ b/app/google-services.json	(date 1743935388506)
+@@ -0,0 +1,30 @@
++{
++  "project_info": {
++    "project_number": "978524122724",
++    "firebase_url": "https://woman-safety-application-d824a-default-rtdb.asia-southeast1.firebasedatabase.app",
++    "project_id": "woman-safety-application-d824a",
++    "storage_bucket": "woman-safety-application-d824a.firebasestorage.app"
++  },
++  "client": [
++    {
++      "client_info": {
++        "mobilesdk_app_id": "1:978524122724:android:590b6011ab6f9ee2127971",
++        "android_client_info": {
++          "package_name": "com.pant.girly"
++        }
++      },
++      "oauth_client": [],
++      "api_key": [
++        {
++          "current_key": "AIzaSyAGxFYaT8Pe9578B-cIgYKwNHMJ4MMYrKs"
++        }
++      ],
++      "services": {
++        "appinvite_service": {
++          "other_platform_oauth_client": []
++        }
++      }
++    }
++  ],
++  "configuration_version": "1"
++}
+\ No newline at end of file
+Index: app/src/main/res/values/themes.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/themes.xml b/app/src/main/res/values/themes.xml
+new file mode 100644
+--- /dev/null	(date 1745000323314)
++++ b/app/src/main/res/values/themes.xml	(date 1745000323314)
+@@ -0,0 +1,33 @@
++<resources xmlns:tools="http://schemas.android.com/tools">
++    <!-- Base Application Theme -->
++
++    <style name="Theme.Girly" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
++        <!-- Primary Colors -->
++        <item name="colorPrimary">@color/deep_pink</item>
++        <item name="colorPrimaryVariant">@color/colorPrimary</item>
++        <item name="colorOnPrimary">@color/white</item>
++
++        <!-- Secondary Colors -->
++        <item name="colorSecondary">@color/light_blue</item>
++        <item name="colorSecondaryVariant">@color/sky_blue</item>
++        <item name="colorOnSecondary">@color/dark_gray</item>
++
++        <!-- Background -->
++        <item name="android:windowBackground">@color/soft_white</item>
++        <item name="android:colorBackground">@color/soft_white</item>
++
++        <!-- Status Bar -->
++        <item name="android:statusBarColor">@color/soft_white</item>
++        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
++
++        <!-- REQUIRED: Fix the crash -->
++        <item name="textAppearanceHeadline6">@style/TextAppearance.MaterialComponents.Headline6</item>
++        <item name="textAppearanceBody1">@style/TextAppearance.MaterialComponents.Body1</item>
++        <item name="textAppearanceSubtitle1">@style/TextAppearance.MaterialComponents.Subtitle1</item>
++
++        <!-- Buttons -->
++        <item name="materialButtonStyle">@style/PinkButtonStyle</item>
++        <item name="floatingActionButtonStyle">@style/PinkFabStyle</item>
++    </style>
++
++</resources>
+\ No newline at end of file
+Index: app/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/.gitignore b/app/.gitignore
+new file mode 100644
+--- /dev/null	(date 1742273372575)
++++ b/app/.gitignore	(date 1742273372575)
+@@ -0,0 +1,1 @@
++/build
+\ No newline at end of file
+Index: app/proguard-rules.pro
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/proguard-rules.pro b/app/proguard-rules.pro
+new file mode 100644
+--- /dev/null	(date 1742273372621)
++++ b/app/proguard-rules.pro	(date 1742273372621)
+@@ -0,0 +1,21 @@
++# Add project specific ProGuard rules here.
++# You can control the set of applied configuration files using the
++# proguardFiles setting in build.gradle.
++#
++# For more details, see
++#   http://developer.android.com/guide/developing/tools/proguard.html
++
++# If your project uses WebView with JS, uncomment the following
++# and specify the fully qualified class name to the JavaScript interface
++# class:
++#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
++#   public *;
++#}
++
++# Uncomment this to preserve the line number information for
++# debugging stack traces.
++#-keepattributes SourceFile,LineNumberTable
++
++# If you keep the line number information, uncomment this to
++# hide the original source file name.
++#-renamesourcefileattribute SourceFile
+\ No newline at end of file
+Index: app/src/main/res/xml/backup_rules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/xml/backup_rules.xml b/app/src/main/res/xml/backup_rules.xml
+new file mode 100644
+--- /dev/null	(date 1745354208960)
++++ b/app/src/main/res/xml/backup_rules.xml	(date 1745354208960)
+@@ -0,0 +1,5 @@
++<?xml version="1.0" encoding="utf-8"?>
++<full-backup-content>
++    <!-- Exclude shared preferences -->
++    <exclude domain="sharedpref" path="."/>
++</full-backup-content>
+\ No newline at end of file
+Index: app/A.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/A.java b/app/A.java
+new file mode 100644
+--- /dev/null	(date 1742285303648)
++++ b/app/A.java	(date 1742285303648)
+@@ -0,0 +1,23 @@
++Unable to open '/data/data/com.pant.girly/code_cache/.overlay/base.apk/classes3.dm': No such file or directory
++2025-03-18 13:32:57.339  8715-8715  ziparchive              com.pant.girly                       W  Unable to open '/data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/base.dm': No such file or directory
++2025-03-18 13:32:57.339  8715-8715  ziparchive              com.pant.girly                       W  Unable to open '/data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/base.dm': No such file or directory
++2025-03-18 13:32:57.579  8715-8715  nativeloader            com.pant.girly                       D  Configuring clns-7 for other apk /data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/base.apk. target_sdk_version=34, uses_libraries=, library_path=/data/app/~~cd7e0V9MJWZUtaaznp2nMA==/com.pant.girly-Ow7YFoohBM4l5O1tlY0w-A==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.pant.girly
++2025-03-18 13:32:57.614  8715-8715  GraphicsEnvironment     com.pant.girly                       V  Currently set values for:
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V    angle_gl_driver_selection_pkgs=[]
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V    angle_gl_driver_selection_values=[]
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V  Global.Settings values are invalid: number of packages: 0, number of values: 0
++2025-03-18 13:32:57.617  8715-8715  GraphicsEnvironment     com.pant.girly                       V  Neither updatable production driver nor prerelease driver is supported.
++2025-03-18 13:32:57.648  8715-8715  FirebaseApp             com.pant.girly                       W  Default FirebaseApp failed to initialize because no default options were found. This usually means that com.google.gms:google-services was not applied to your gradle project.
++2025-03-18 13:32:57.648  8715-8715  FirebaseInitProvider    com.pant.girly                       I  FirebaseApp initialization unsuccessful
++2025-03-18 13:32:57.809  8715-8715  AppCompatDelegate       com.pant.girly                       D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
++2025-03-18 13:32:58.001  8715-8715  com.pant.girly          com.pant.girly                       W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
++2025-03-18 13:32:58.001  8715-8715  com.pant.girly          com.pant.girly                       W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
++2025-03-18 13:32:58.116  8715-8715  HWUI                    com.pant.girly                       W  Unknown dataspace 0
++2025-03-18 13:32:58.189  8715-8731  EGL_emulation           com.pant.girly                       I  Opening libGLESv1_CM_emulation.so
++2025-03-18 13:32:58.194  8715-8731  EGL_emulation           com.pant.girly                       I  Opening libGLESv2_emulation.so
++2025-03-18 13:32:58.225  8715-8731  HWUI                    com.pant.girly                       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
++2025-03-18 13:32:58.226  8715-8731  HWUI                    com.pant.girly                       W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
++2025-03-18 13:32:58.281  8715-8731  Gralloc4                com.pant.girly                       I  mapper 4.x is not supported
++2025-03-18 13:32:58.479  8715-8720  com.pant.girly          com.pant.girly                       I  Compiler allocated 4219KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
++2025-03-18 13:32:59.064  8715-8720  com.pant.girly          com.pant.girly                       I  Compiler allocated 5174KB to compile void android.view.ViewRootImpl.performTraversals()
++2025-03-18 13:33:02.924  8715-8742  ProfileInstaller        com.pant.girly                       D  Installing profile for com.pant.girly
+Index: gradlew.bat
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/gradlew.bat b/gradlew.bat
+new file mode 100644
+--- /dev/null	(date 1742273372340)
++++ b/gradlew.bat	(date 1742273372340)
+@@ -0,0 +1,89 @@
++@rem
++@rem Copyright 2015 the original author or authors.
++@rem
++@rem Licensed under the Apache License, Version 2.0 (the "License");
++@rem you may not use this file except in compliance with the License.
++@rem You may obtain a copy of the License at
++@rem
++@rem      https://www.apache.org/licenses/LICENSE-2.0
++@rem
++@rem Unless required by applicable law or agreed to in writing, software
++@rem distributed under the License is distributed on an "AS IS" BASIS,
++@rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
++@rem See the License for the specific language governing permissions and
++@rem limitations under the License.
++@rem
++
++@if "%DEBUG%" == "" @echo off
++@rem ##########################################################################
++@rem
++@rem  Gradle startup script for Windows
++@rem
++@rem ##########################################################################
++
++@rem Set local scope for the variables with windows NT shell
++if "%OS%"=="Windows_NT" setlocal
++
++set DIRNAME=%~dp0
++if "%DIRNAME%" == "" set DIRNAME=.
++set APP_BASE_NAME=%~n0
++set APP_HOME=%DIRNAME%
++
++@rem Resolve any "." and ".." in APP_HOME to make it shorter.
++for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi
++
++@rem Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
++set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m"
++
++@rem Find java.exe
++if defined JAVA_HOME goto findJavaFromJavaHome
++
++set JAVA_EXE=java.exe
++%JAVA_EXE% -version >NUL 2>&1
++if "%ERRORLEVEL%" == "0" goto execute
++
++echo.
++echo ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
++echo.
++echo Please set the JAVA_HOME variable in your environment to match the
++echo location of your Java installation.
++
++goto fail
++
++:findJavaFromJavaHome
++set JAVA_HOME=%JAVA_HOME:"=%
++set JAVA_EXE=%JAVA_HOME%/bin/java.exe
++
++if exist "%JAVA_EXE%" goto execute
++
++echo.
++echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%
++echo.
++echo Please set the JAVA_HOME variable in your environment to match the
++echo location of your Java installation.
++
++goto fail
++
++:execute
++@rem Setup the command line
++
++set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
++
++
++@rem Execute Gradle
++"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %GRADLE_OPTS% "-Dorg.gradle.appname=%APP_BASE_NAME%" -classpath "%CLASSPATH%" org.gradle.wrapper.GradleWrapperMain %*
++
++:end
++@rem End local scope for the variables with windows NT shell
++if "%ERRORLEVEL%"=="0" goto mainEnd
++
++:fail
++rem Set variable GRADLE_EXIT_CONSOLE if you need the _script_ return code instead of
++rem the _cmd.exe /c_ return code!
++if  not "" == "%GRADLE_EXIT_CONSOLE%" exit 1
++exit /b 1
++
++:mainEnd
++if "%OS%"=="Windows_NT" endlocal
++
++:omega
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1742273372293)
++++ b/.gitignore	(date 1742273372293)
+@@ -0,0 +1,15 @@
++*.iml
++.gradle
++/local.properties
++/.idea/caches
++/.idea/libraries
++/.idea/modules.xml
++/.idea/workspace.xml
++/.idea/navEditor.xml
++/.idea/assetWizardSettings.xml
++.DS_Store
++/build
++/captures
++.externalNativeBuild
++.cxx
++local.properties
+Index: gradle.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/gradle.properties b/gradle.properties
+new file mode 100644
+--- /dev/null	(date 1742273372465)
++++ b/gradle.properties	(date 1742273372465)
+@@ -0,0 +1,23 @@
++# Project-wide Gradle settings.
++# IDE (e.g. Android Studio) users:
++# Gradle settings configured through the IDE *will override*
++# any settings specified in this file.
++# For more details on how to configure your build environment visit
++# http://www.gradle.org/docs/current/userguide/build_environment.html
++# Specifies the JVM arguments used for the daemon process.
++# The setting is particularly useful for tweaking memory settings.
++org.gradle.jvmargs=-Xmx2048m -Dfile.encoding=UTF-8
++# When configured, Gradle will run in incubating parallel mode.
++# This option should only be used with decoupled projects. For more details, visit
++# https://developer.android.com/r/tools/gradle-multi-project-decoupled-projects
++# org.gradle.parallel=true
++# AndroidX package structure to make it clearer which packages are bundled with the
++# Android operating system, and which are packaged with your app's APK
++# https://developer.android.com/topic/libraries/support-library/androidx-rn
++android.useAndroidX=true
++# Kotlin code style for this project: "official" or "obsolete":
++kotlin.code.style=official
++# Enables namespacing of each library's R class so that its R class includes only the
++# resources declared in the library itself and none from the library's dependencies,
++# thereby reducing the size of the R class for that library
++android.nonTransitiveRClass=true
+\ No newline at end of file
+Index: gradlew
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/gradlew b/gradlew
+new file mode 100644
+--- /dev/null	(date 1742273372325)
++++ b/gradlew	(date 1742273372325)
+@@ -0,0 +1,185 @@
++#!/usr/bin/env sh
++
++#
++# Copyright 2015 the original author or authors.
++#
++# Licensed under the Apache License, Version 2.0 (the "License");
++# you may not use this file except in compliance with the License.
++# You may obtain a copy of the License at
++#
++#      https://www.apache.org/licenses/LICENSE-2.0
++#
++# Unless required by applicable law or agreed to in writing, software
++# distributed under the License is distributed on an "AS IS" BASIS,
++# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
++# See the License for the specific language governing permissions and
++# limitations under the License.
++#
++
++##############################################################################
++##
++##  Gradle start up script for UN*X
++##
++##############################################################################
++
++# Attempt to set APP_HOME
++# Resolve links: $0 may be a link
++PRG="$0"
++# Need this for relative symlinks.
++while [ -h "$PRG" ] ; do
++    ls=`ls -ld "$PRG"`
++    link=`expr "$ls" : '.*-> \(.*\)$'`
++    if expr "$link" : '/.*' > /dev/null; then
++        PRG="$link"
++    else
++        PRG=`dirname "$PRG"`"/$link"
++    fi
++done
++SAVED="`pwd`"
++cd "`dirname \"$PRG\"`/" >/dev/null
++APP_HOME="`pwd -P`"
++cd "$SAVED" >/dev/null
++
++APP_NAME="Gradle"
++APP_BASE_NAME=`basename "$0"`
++
++# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
++DEFAULT_JVM_OPTS='"-Xmx64m" "-Xms64m"'
++
++# Use the maximum available, or set MAX_FD != -1 to use that value.
++MAX_FD="maximum"
++
++warn () {
++    echo "$*"
++}
++
++die () {
++    echo
++    echo "$*"
++    echo
++    exit 1
++}
++
++# OS specific support (must be 'true' or 'false').
++cygwin=false
++msys=false
++darwin=false
++nonstop=false
++case "`uname`" in
++  CYGWIN* )
++    cygwin=true
++    ;;
++  Darwin* )
++    darwin=true
++    ;;
++  MINGW* )
++    msys=true
++    ;;
++  NONSTOP* )
++    nonstop=true
++    ;;
++esac
++
++CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrapper.jar
++
++
++# Determine the Java command to use to start the JVM.
++if [ -n "$JAVA_HOME" ] ; then
++    if [ -x "$JAVA_HOME/jre/sh/java" ] ; then
++        # IBM's JDK on AIX uses strange locations for the executables
++        JAVACMD="$JAVA_HOME/jre/sh/java"
++    else
++        JAVACMD="$JAVA_HOME/bin/java"
++    fi
++    if [ ! -x "$JAVACMD" ] ; then
++        die "ERROR: JAVA_HOME is set to an invalid directory: $JAVA_HOME
++
++Please set the JAVA_HOME variable in your environment to match the
++location of your Java installation."
++    fi
++else
++    JAVACMD="java"
++    which java >/dev/null 2>&1 || die "ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
++
++Please set the JAVA_HOME variable in your environment to match the
++location of your Java installation."
++fi
++
++# Increase the maximum file descriptors if we can.
++if [ "$cygwin" = "false" -a "$darwin" = "false" -a "$nonstop" = "false" ] ; then
++    MAX_FD_LIMIT=`ulimit -H -n`
++    if [ $? -eq 0 ] ; then
++        if [ "$MAX_FD" = "maximum" -o "$MAX_FD" = "max" ] ; then
++            MAX_FD="$MAX_FD_LIMIT"
++        fi
++        ulimit -n $MAX_FD
++        if [ $? -ne 0 ] ; then
++            warn "Could not set maximum file descriptor limit: $MAX_FD"
++        fi
++    else
++        warn "Could not query maximum file descriptor limit: $MAX_FD_LIMIT"
++    fi
++fi
++
++# For Darwin, add options to specify how the application appears in the dock
++if $darwin; then
++    GRADLE_OPTS="$GRADLE_OPTS \"-Xdock:name=$APP_NAME\" \"-Xdock:icon=$APP_HOME/media/gradle.icns\""
++fi
++
++# For Cygwin or MSYS, switch paths to Windows format before running java
++if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
++    APP_HOME=`cygpath --path --mixed "$APP_HOME"`
++    CLASSPATH=`cygpath --path --mixed "$CLASSPATH"`
++
++    JAVACMD=`cygpath --unix "$JAVACMD"`
++
++    # We build the pattern for arguments to be converted via cygpath
++    ROOTDIRSRAW=`find -L / -maxdepth 1 -mindepth 1 -type d 2>/dev/null`
++    SEP=""
++    for dir in $ROOTDIRSRAW ; do
++        ROOTDIRS="$ROOTDIRS$SEP$dir"
++        SEP="|"
++    done
++    OURCYGPATTERN="(^($ROOTDIRS))"
++    # Add a user-defined pattern to the cygpath arguments
++    if [ "$GRADLE_CYGPATTERN" != "" ] ; then
++        OURCYGPATTERN="$OURCYGPATTERN|($GRADLE_CYGPATTERN)"
++    fi
++    # Now convert the arguments - kludge to limit ourselves to /bin/sh
++    i=0
++    for arg in "$@" ; do
++        CHECK=`echo "$arg"|egrep -c "$OURCYGPATTERN" -`
++        CHECK2=`echo "$arg"|egrep -c "^-"`                                 ### Determine if an option
++
++        if [ $CHECK -ne 0 ] && [ $CHECK2 -eq 0 ] ; then                    ### Added a condition
++            eval `echo args$i`=`cygpath --path --ignore --mixed "$arg"`
++        else
++            eval `echo args$i`="\"$arg\""
++        fi
++        i=`expr $i + 1`
++    done
++    case $i in
++        0) set -- ;;
++        1) set -- "$args0" ;;
++        2) set -- "$args0" "$args1" ;;
++        3) set -- "$args0" "$args1" "$args2" ;;
++        4) set -- "$args0" "$args1" "$args2" "$args3" ;;
++        5) set -- "$args0" "$args1" "$args2" "$args3" "$args4" ;;
++        6) set -- "$args0" "$args1" "$args2" "$args3" "$args4" "$args5" ;;
++        7) set -- "$args0" "$args1" "$args2" "$args3" "$args4" "$args5" "$args6" ;;
++        8) set -- "$args0" "$args1" "$args2" "$args3" "$args4" "$args5" "$args6" "$args7" ;;
++        9) set -- "$args0" "$args1" "$args2" "$args3" "$args4" "$args5" "$args6" "$args7" "$args8" ;;
++    esac
++fi
++
++# Escape application args
++save () {
++    for i do printf %s\\n "$i" | sed "s/'/'\\\\''/g;1s/^/'/;\$s/\$/' \\\\/" ; done
++    echo " "
++}
++APP_ARGS=`save "$@"`
++
++# Collect all arguments for the java command, following the shell quoting and substitution rules
++eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$APP_BASE_NAME\"" -classpath "\"$CLASSPATH\"" org.gradle.wrapper.GradleWrapperMain "$APP_ARGS"
++
++exec "$JAVACMD" "$@"
+Index: app/src/main/res/drawable/bg_profile_header.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/bg_profile_header.xml b/app/src/main/res/drawable/bg_profile_header.xml
+new file mode 100644
+--- /dev/null	(date 1742803718803)
++++ b/app/src/main/res/drawable/bg_profile_header.xml	(date 1742803718803)
+@@ -0,0 +1,9 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android"
++    android:width="100dp"
++    android:height="100dp"
++    android:viewportWidth="24"
++    android:viewportHeight="24">
++    <path
++        android:fillColor="#CCCCCC"
++        android:pathData="M12,12A5,5 0,1 1 17,7A5,5 0,1 1 12,12ZM12,14C9.33,14 4,15.34 4,18V20H20V18C20,15.34 14.67,14 12,14Z" />
++</vector>
+Index: settings.gradle.kts
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/settings.gradle.kts b/settings.gradle.kts
+new file mode 100644
+--- /dev/null	(date 1742273996099)
++++ b/settings.gradle.kts	(date 1742273996099)
+@@ -0,0 +1,29 @@
++pluginManagement {
++    repositories {
++        google {
++            content {
++                includeGroupByRegex("com\\.android.*")
++                includeGroupByRegex("com\\.google.*")
++                includeGroupByRegex("androidx.*")
++            }
++        }
++        mavenCentral()
++        gradlePluginPortal()
++    }
++}
++dependencyResolutionManagement {
++    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
++    repositories {
++        google()
++        mavenCentral()
++    }
++}
++dependencyResolutionManagement {
++    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
++    repositories {
++        google() // Add this inside repositories
++        mavenCentral()
++    }
++}
++rootProject.name = "Girly"
++include(":app")
+Index: app/src/main/res/drawable/ic_launcher_background.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/ic_launcher_background.xml b/app/src/main/res/drawable/ic_launcher_background.xml
+new file mode 100644
+--- /dev/null	(date 1744309721275)
++++ b/app/src/main/res/drawable/ic_launcher_background.xml	(date 1744309721275)
+@@ -0,0 +1,74 @@
++<?xml version="1.0" encoding="utf-8"?>
++<vector
++    android:height="108dp"
++    android:width="108dp"
++    android:viewportHeight="108"
++    android:viewportWidth="108"
++    xmlns:android="http://schemas.android.com/apk/res/android">
++    <path android:fillColor="#3DDC84"
++          android:pathData="M0,0h108v108h-108z"/>
++    <path android:fillColor="#00000000" android:pathData="M9,0L9,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,0L19,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M29,0L29,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M39,0L39,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M49,0L49,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M59,0L59,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M69,0L69,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M79,0L79,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M89,0L89,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M99,0L99,108"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,9L108,9"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,19L108,19"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,29L108,29"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,39L108,39"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,49L108,49"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,59L108,59"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,69L108,69"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,79L108,79"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,89L108,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M0,99L108,99"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,29L89,29"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,39L89,39"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,49L89,49"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,59L89,59"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,69L89,69"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M19,79L89,79"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M29,19L29,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M39,19L39,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M49,19L49,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M59,19L59,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M69,19L69,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++    <path android:fillColor="#00000000" android:pathData="M79,19L79,89"
++          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
++</vector>
+Index: app/src/main/res/xml/file_paths.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/xml/file_paths.xml b/app/src/main/res/xml/file_paths.xml
+new file mode 100644
+--- /dev/null	(date 1745354231445)
++++ b/app/src/main/res/xml/file_paths.xml	(date 1745354231445)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="utf-8"?>
++<paths>
++    <external-files-path name="my_images" path="Pictures" />
++    <external-files-path name="my_docs" path="Documents" />
++    <cache-path name="my_cache" path="/" />
++</paths>
+\ No newline at end of file
+Index: app/src/main/res/drawable/ic_logout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/ic_logout.xml b/app/src/main/res/drawable/ic_logout.xml
+new file mode 100644
+--- /dev/null	(date 1742461507885)
++++ b/app/src/main/res/drawable/ic_logout.xml	(date 1742461507885)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:autoMirrored="true" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M17,7l-1.41,1.41L18.17,11H8v2h10.17l-2.58,2.58L17,17l5,-5zM4,5h8V3H4c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h8v-2H4V5z"/>
++    
++</vector>
+Index: app/src/test/java/com/pant/girly/ExampleUnitTest.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/test/java/com/pant/girly/ExampleUnitTest.kt b/app/src/test/java/com/pant/girly/ExampleUnitTest.kt
+new file mode 100644
+--- /dev/null	(date 1742273373230)
++++ b/app/src/test/java/com/pant/girly/ExampleUnitTest.kt	(date 1742273373230)
+@@ -0,0 +1,17 @@
++package com.pant.girly
++
++import org.junit.Test
++
++import org.junit.Assert.*
++
++/**
++ * Example local unit test, which will execute on the development machine (host).
++ *
++ * See [testing documentation](http://d.android.com/tools/testing).
++ */
++class ExampleUnitTest {
++    @Test
++    fun addition_isCorrect() {
++        assertEquals(4, 2 + 2)
++    }
++}
+\ No newline at end of file
+Index: app/src/androidTest/java/com/pant/girly/ExampleInstrumentedTest.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/androidTest/java/com/pant/girly/ExampleInstrumentedTest.kt b/app/src/androidTest/java/com/pant/girly/ExampleInstrumentedTest.kt
+new file mode 100644
+--- /dev/null	(date 1742273373246)
++++ b/app/src/androidTest/java/com/pant/girly/ExampleInstrumentedTest.kt	(date 1742273373246)
+@@ -0,0 +1,24 @@
++package com.pant.girly
++
++import androidx.test.platform.app.InstrumentationRegistry
++import androidx.test.ext.junit.runners.AndroidJUnit4
++
++import org.junit.Test
++import org.junit.runner.RunWith
++
++import org.junit.Assert.*
++
++/**
++ * Instrumented test, which will execute on an Android device.
++ *
++ * See [testing documentation](http://d.android.com/tools/testing).
++ */
++@RunWith(AndroidJUnit4::class)
++class ExampleInstrumentedTest {
++    @Test
++    fun useAppContext() {
++        // Context of the app under test.
++        val appContext = InstrumentationRegistry.getInstrumentation().targetContext
++        assertEquals("com.pant.girly", appContext.packageName)
++    }
++}
+\ No newline at end of file
+Index: app/src/main/java/com/pant/girly/SignupActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/pant/girly/SignupActivity.kt b/app/src/main/java/com/pant/girly/SignupActivity.kt
+new file mode 100644
+--- /dev/null	(date 1744993037123)
++++ b/app/src/main/java/com/pant/girly/SignupActivity.kt	(date 1744993037123)
+@@ -0,0 +1,204 @@
++package com.pant.girly
++
++import android.content.Intent
++import android.os.Bundle
++import android.text.InputType
++import android.text.TextUtils
++import android.view.View
++import android.widget.EditText
++import android.widget.Toast
++import androidx.appcompat.app.AppCompatActivity
++import com.google.android.gms.tasks.Task
++import com.google.firebase.FirebaseException
++import com.google.firebase.auth.*
++import com.google.firebase.firestore.FirebaseFirestore
++import com.pant.girly.databinding.ActivitySignupBinding
++import java.util.concurrent.TimeUnit
++
++class SignupActivity : AppCompatActivity() {
++
++    private lateinit var binding: ActivitySignupBinding
++    private lateinit var mAuth: FirebaseAuth
++    private lateinit var db: FirebaseFirestore
++    private var isOtpRequired = false
++    private var isPasswordVisible = false
++    private var isConfirmPasswordVisible = false
++    private var storedVerificationId: String? = null
++    private lateinit var resendToken: PhoneAuthProvider.ForceResendingToken
++
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        binding = ActivitySignupBinding.inflate(layoutInflater)
++        setContentView(binding.root)
++
++        mAuth = FirebaseAuth.getInstance()
++        db = FirebaseFirestore.getInstance()
++
++        // Hide OTP views initially
++        binding.etOtp.visibility = View.GONE
++        binding.btnGetOtp.visibility = View.GONE
++
++        // Toggle OTP checkbox
++        binding.chkOtpVerification.setOnCheckedChangeListener { _, isChecked ->
++            isOtpRequired = isChecked
++            toggleOtpVisibility(isChecked)
++        }
++
++        // Get OTP button
++        binding.btnGetOtp.setOnClickListener {
++            val mobile = binding.etMobile.text.toString().trim()
++            if (mobile.length < 10) {
++                showToast("Enter valid mobile number")
++            } else {
++                sendOtpToMobile(mobile)
++            }
++        }
++
++        // Sign Up button
++        binding.btnSignUp.setOnClickListener {
++            registerUser()
++        }
++
++        // Go to login
++        binding.tvLogin.setOnClickListener {
++            startActivity(Intent(this, LoginActivity::class.java))
++            finish()
++        }
++
++        // Password visibility toggles
++        binding.imgShowHidePassword.setOnClickListener {
++            isPasswordVisible = !isPasswordVisible
++            togglePasswordVisibility(binding.etPassword, isPasswordVisible)
++            binding.imgShowHidePassword.setImageResource(
++                if (isPasswordVisible) R.drawable.ic_eye_open else R.drawable.ic_eye_closed
++            )
++        }
++
++        binding.imgShowHideConfirmPassword.setOnClickListener {
++            isConfirmPasswordVisible = !isConfirmPasswordVisible
++            togglePasswordVisibility(binding.etConfirmPassword, isConfirmPasswordVisible)
++            binding.imgShowHideConfirmPassword.setImageResource(
++                if (isConfirmPasswordVisible) R.drawable.ic_eye_open else R.drawable.ic_eye_closed
++            )
++        }
++    }
++
++    private fun toggleOtpVisibility(isChecked: Boolean) {
++        binding.etOtp.visibility = if (isChecked) View.VISIBLE else View.GONE
++        binding.btnGetOtp.visibility = if (isChecked) View.VISIBLE else View.GONE
++    }
++
++    private fun registerUser() {
++        val email = binding.etEmail.text.toString().trim()
++        val mobile = binding.etMobile.text.toString().trim()
++        val password = binding.etPassword.text.toString().trim()
++        val confirmPassword = binding.etConfirmPassword.text.toString().trim()
++        val otp = binding.etOtp.text.toString().trim()
++
++        if (email.isEmpty() || mobile.isEmpty() || password.isEmpty()) {
++            showToast("All fields are required")
++            return
++        }
++
++        if (password != confirmPassword) {
++            showToast("Passwords do not match")
++            return
++        }
++
++        if (isOtpRequired) {
++            if (otp.isEmpty()) {
++                showToast("Enter OTP")
++                return
++            }
++            val credential = PhoneAuthProvider.getCredential(storedVerificationId!!, otp)
++            signInWithPhoneAuthCredential(credential, email, mobile, password)
++        } else {
++            createUserInFirebase(email, mobile, password)
++        }
++    }
++
++    private fun sendOtpToMobile(mobile: String) {
++        val phoneNumber = "+91$mobile"
++
++        val options = PhoneAuthOptions.newBuilder(mAuth)
++            .setPhoneNumber(phoneNumber)
++            .setTimeout(60L, TimeUnit.SECONDS)
++            .setActivity(this)
++            .setCallbacks(object : PhoneAuthProvider.OnVerificationStateChangedCallbacks() {
++                override fun onVerificationCompleted(credential: PhoneAuthCredential) {
++                    showToast("OTP Auto-verified")
++                    binding.etOtp.setText(credential.smsCode)
++                }
++
++                override fun onVerificationFailed(e: FirebaseException) {
++                    showToast("Verification failed: ${e.message}")
++                }
++
++                override fun onCodeSent(verificationId: String, token: PhoneAuthProvider.ForceResendingToken) {
++                    storedVerificationId = verificationId
++                    resendToken = token
++                    showToast("OTP sent successfully")
++                }
++            })
++            .build()
++        PhoneAuthProvider.verifyPhoneNumber(options)
++    }
++
++    private fun signInWithPhoneAuthCredential(
++        credential: PhoneAuthCredential,
++        email: String,
++        mobile: String,
++        password: String
++    ) {
++        mAuth.signInWithCredential(credential)
++            .addOnCompleteListener { task ->
++                if (task.isSuccessful) {
++                    createUserInFirebase(email, mobile, password)
++                } else {
++                    showToast("OTP Verification failed: ${task.exception?.message}")
++                }
++            }
++    }
++
++    private fun createUserInFirebase(email: String, mobile: String, password: String) {
++        mAuth.createUserWithEmailAndPassword(email, password)
++            .addOnCompleteListener { task: Task<AuthResult> ->
++                if (task.isSuccessful) {
++                    saveUserData(email, mobile)
++                } else {
++                    showToast("Sign-up failed: ${task.exception?.message}")
++                }
++            }
++    }
++
++    private fun saveUserData(email: String, mobile: String) {
++        val userId = mAuth.currentUser?.uid ?: return
++        val user = User(email, mobile)
++
++        db.collection("users").document(userId)
++            .set(user)
++            .addOnSuccessListener {
++                showToast("Sign-up Successful!")
++                startActivity(Intent(this, MainActivity::class.java))
++                finish()
++            }
++            .addOnFailureListener { e ->
++                showToast("Error: ${e.message}")
++            }
++    }
++
++    private fun togglePasswordVisibility(editText: EditText, isVisible: Boolean) {
++        editText.inputType = if (isVisible) {
++            InputType.TYPE_TEXT_VARIATION_VISIBLE_PASSWORD
++        } else {
++            InputType.TYPE_CLASS_TEXT or InputType.TYPE_TEXT_VARIATION_PASSWORD
++        }
++        editText.setSelection(editText.text.length)
++    }
++
++    private fun showToast(message: String) {
++        Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
++    }
++
++    data class User(val email: String, val mobile: String)
++}
+Index: app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable-v24/ic_launcher_foreground.xml b/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+new file mode 100644
+--- /dev/null	(date 1742273373496)
++++ b/app/src/main/res/drawable-v24/ic_launcher_foreground.xml	(date 1742273373496)
+@@ -0,0 +1,30 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:aapt="http://schemas.android.com/aapt"
++    android:width="108dp"
++    android:height="108dp"
++    android:viewportWidth="108"
++    android:viewportHeight="108">
++    <path android:pathData="M31,63.928c0,0 6.4,-11 12.1,-13.1c7.2,-2.6 26,-1.4 26,-1.4l38.1,38.1L107,108.928l-32,-1L31,63.928z">
++        <aapt:attr name="android:fillColor">
++            <gradient
++                android:endX="85.84757"
++                android:endY="92.4963"
++                android:startX="42.9492"
++                android:startY="49.59793"
++                android:type="linear">
++                <item
++                    android:color="#44000000"
++                    android:offset="0.0" />
++                <item
++                    android:color="#00000000"
++                    android:offset="1.0" />
++            </gradient>
++        </aapt:attr>
++    </path>
++    <path
++        android:fillColor="#FFFFFF"
++        android:fillType="nonZero"
++        android:pathData="M65.3,45.828l3.8,-6.6c0.2,-0.4 0.1,-0.9 -0.3,-1.1c-0.4,-0.2 -0.9,-0.1 -1.1,0.3l-3.9,6.7c-6.3,-2.8 -13.4,-2.8 -19.7,0l-3.9,-6.7c-0.2,-0.4 -0.7,-0.5 -1.1,-0.3C38.8,38.328 38.7,38.828 38.9,39.228l3.8,6.6C36.2,49.428 31.7,56.028 31,63.928h46C76.3,56.028 71.8,49.428 65.3,45.828zM43.4,57.328c-0.8,0 -1.5,-0.5 -1.8,-1.2c-0.3,-0.7 -0.1,-1.5 0.4,-2.1c0.5,-0.5 1.4,-0.7 2.1,-0.4c0.7,0.3 1.2,1 1.2,1.8C45.3,56.528 44.5,57.328 43.4,57.328L43.4,57.328zM64.6,57.328c-0.8,0 -1.5,-0.5 -1.8,-1.2s-0.1,-1.5 0.4,-2.1c0.5,-0.5 1.4,-0.7 2.1,-0.4c0.7,0.3 1.2,1 1.2,1.8C66.5,56.528 65.6,57.328 64.6,57.328L64.6,57.328z"
++        android:strokeWidth="1"
++        android:strokeColor="#00000000" />
++</vector>
+\ No newline at end of file
+Index: app/src/main/res/values-night/themes.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values-night/themes.xml b/app/src/main/res/values-night/themes.xml
+new file mode 100644
+--- /dev/null	(date 1745000875555)
++++ b/app/src/main/res/values-night/themes.xml	(date 1745000875555)
+@@ -0,0 +1,15 @@
++<resources>
++    <style name="Theme.Girly" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
++
++    <!-- Dark mode adaptations -->
++        <item name="colorPrimary">@color/hot_pink</item>
++        <item name="colorPrimaryVariant">@color/deep_pink</item>
++        <item name="colorOnPrimary">@color/white</item>
++
++        <item name="android:windowBackground">@color/dark_gray</item>
++        <item name="android:colorBackground">@color/dark_gray</item>
++
++        <!-- Keep light blue secondary in dark mode -->
++        <item name="colorSecondary">@color/light_blue</item>
++    </style>
++</resources>
+\ No newline at end of file
+Index: app/src/main/java/com/pant/girly/ProfileActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/pant/girly/ProfileActivity.kt b/app/src/main/java/com/pant/girly/ProfileActivity.kt
+new file mode 100644
+--- /dev/null	(date 1745353131568)
++++ b/app/src/main/java/com/pant/girly/ProfileActivity.kt	(date 1745353131568)
+@@ -0,0 +1,243 @@
++package com.pant.girly
++
++import android.content.Intent
++import android.graphics.drawable.Drawable
++import android.os.Bundle
++import android.util.Log
++import android.view.Menu
++import android.view.MenuItem
++import android.widget.Toast
++import androidx.appcompat.app.AppCompatActivity
++import androidx.recyclerview.widget.LinearLayoutManager
++import com.bumptech.glide.Glide
++import com.bumptech.glide.load.DataSource
++import com.bumptech.glide.load.engine.GlideException
++import com.bumptech.glide.request.RequestListener
++import com.bumptech.glide.request.target.Target
++import com.google.firebase.auth.FirebaseAuth
++import com.google.firebase.auth.FirebaseUser
++import com.google.firebase.database.*
++import com.google.firebase.storage.FirebaseStorage
++import com.pant.girly.databinding.ActivityProfileBinding
++
++class ProfileActivity : AppCompatActivity() {
++
++    private lateinit var binding: ActivityProfileBinding
++    private lateinit var auth: FirebaseAuth
++    private lateinit var database: FirebaseDatabase
++    private lateinit var storage: FirebaseStorage
++    private lateinit var user: FirebaseUser
++
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        binding = ActivityProfileBinding.inflate(layoutInflater)
++        setContentView(binding.root)
++
++        // Initialize Firebase services
++        auth = FirebaseAuth.getInstance()
++        database = FirebaseDatabase.getInstance()
++        storage = FirebaseStorage.getInstance()
++        user = auth.currentUser ?: run {
++            redirectToLogin()
++            return
++        }
++
++        setupToolbar()
++        setupProfileOptions()
++        loadUserData()
++    }
++
++    private fun setupToolbar() {
++        setSupportActionBar(binding.toolbar)
++        supportActionBar?.apply {
++            setDisplayHomeAsUpEnabled(true)
++            title = ""
++        }
++        binding.toolbarTitle.text = "My Profile"
++    }
++
++    private fun setupProfileOptions() {
++        val options = listOf(
++            ProfileOption("Emergency SOS", "Configure emergency contacts", R.drawable.ic_sos, ProfileOptionType.SOS_ALERTS),
++            ProfileOption("App Settings", "Notifications, Location", R.drawable.ic_settings, ProfileOptionType.APP_SETTINGS),
++            ProfileOption("Personal Info", "View your details", R.drawable.ic_person, ProfileOptionType.USER_INFO),
++            ProfileOption("Emergency Contacts", "Manage contacts", R.drawable.ic_contacts, ProfileOptionType.EMERGENCY_CONTACTS),
++            ProfileOption("Registered Address", "Safety location", R.drawable.ic_home, ProfileOptionType.REGISTERED_ADDRESS),
++            ProfileOption("Logout", "Sign out", R.drawable.ic_logout, ProfileOptionType.LOGOUT)
++        )
++
++        binding.rvProfileOptions.apply {
++            layoutManager = LinearLayoutManager(this@ProfileActivity)
++            adapter = ProfileOptionsAdapter(options) { handleOptionClick(it) }
++            setHasFixedSize(true)
++        }
++    }
++
++    private fun handleOptionClick(option: ProfileOption) {
++        when (option.type) {
++            ProfileOptionType.SOS_ALERTS -> {
++                startActivity(Intent(this, SOSAlertsActivity::class.java))
++                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
++            }
++            ProfileOptionType.APP_SETTINGS -> {
++                startActivity(Intent(this, AppSettingsActivity::class.java))
++                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
++            }
++            ProfileOptionType.USER_INFO -> {
++                startActivity(Intent(this, UserInfoActivity::class.java))
++                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
++            }
++            ProfileOptionType.EMERGENCY_CONTACTS -> {
++                startActivity(Intent(this, EmergencyContactsActivity::class.java))
++                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
++            }
++            ProfileOptionType.REGISTERED_ADDRESS -> {
++                startActivity(Intent(this, RegisteredAddressActivity::class.java))
++                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
++            }
++            ProfileOptionType.LOGOUT -> {
++                showLogoutConfirmationDialog()
++            }
++        }
++    }
++
++    private fun showLogoutConfirmationDialog() {
++        androidx.appcompat.app.AlertDialog.Builder(this)
++            .setTitle("Logout")
++            .setMessage("Are you sure you want to logout?")
++            .setPositiveButton("Yes") { _, _ -> logoutUser() }
++            .setNegativeButton("No", null)
++            .show()
++    }
++
++    private fun loadUserData() {
++        // Set email from Firebase Auth
++        binding.tvUserEmail.text = user.email ?: "No email"
++
++        // Load additional profile data
++        database.reference.child("Users").child(user.uid)
++            .addListenerForSingleValueEvent(object : ValueEventListener {
++                override fun onDataChange(snapshot: DataSnapshot) {
++                    if (!snapshot.exists()) {
++                        redirectToUserForm()
++                        return
++                    }
++
++                    // Set user name
++                    binding.tvUserName.text = snapshot.child("name").value?.toString() ?: "User"
++
++                    // Load profile image
++                    loadProfileImage(snapshot)
++                }
++
++                override fun onCancelled(error: DatabaseError) {
++                    Toast.makeText(this@ProfileActivity, "Failed to load profile", Toast.LENGTH_SHORT).show()
++                }
++            })
++    }
++
++    private fun loadProfileImage(snapshot: DataSnapshot) {
++        val imageUrl = snapshot.child("profileImageUrl").value?.toString()
++
++        if (!imageUrl.isNullOrEmpty()) {
++            loadImageFromUrl(imageUrl)
++        } else {
++            loadImageFromStorage()
++        }
++    }
++
++    private fun loadImageFromUrl(url: String) {
++        Glide.with(this)
++            .load(url)
++            .addListener(object : RequestListener<Drawable> {
++                override fun onLoadFailed(
++                    e: GlideException?,
++                    model: Any?,
++                    target: Target<Drawable>,
++                    isFirstResource: Boolean
++                ): Boolean {
++                    loadImageFromStorage()
++                    return false
++                }
++
++                override fun onResourceReady(
++                    resource: Drawable,
++                    model: Any,
++                    target: Target<Drawable>?,
++                    dataSource: DataSource,
++                    isFirstResource: Boolean
++                ): Boolean {
++                    return false
++                }
++            })
++            .placeholder(R.drawable.default_profile)
++            .error(R.drawable.error_profile)
++            .circleCrop()
++            .into(binding.ivProfileImage)
++    }
++
++    private fun loadImageFromStorage() {
++        storage.reference.child("profile_images/${user.uid}.jpg")
++            .downloadUrl
++            .addOnSuccessListener { uri ->
++                // Save URL to database for future use
++                database.reference.child("Users").child(user.uid)
++                    .child("profileImageUrl").setValue(uri.toString())
++
++                // Load the image
++                Glide.with(this)
++                    .load(uri)
++                    .into(binding.ivProfileImage)
++            }
++            .addOnFailureListener { e ->
++                Log.w("Profile", "Failed to load profile image", e)
++                binding.ivProfileImage.setImageResource(R.drawable.default_profile)
++            }
++    }
++
++    private fun redirectToLogin() {
++        startActivity(Intent(this, LoginActivity::class.java))
++        finish()
++    }
++
++    private fun redirectToUserForm() {
++        startActivity(Intent(this, UserFormActivity::class.java))
++        finish()
++    }
++
++    private fun logoutUser() {
++        auth.signOut()
++        startActivity(Intent(this, LoginActivity::class.java))
++        finishAffinity()
++    }
++
++    override fun onCreateOptionsMenu(menu: Menu): Boolean {
++        menuInflater.inflate(R.menu.profile_menu, menu)
++        return true
++    }
++
++    override fun onOptionsItemSelected(item: MenuItem): Boolean {
++        return when (item.itemId) {
++            android.R.id.home -> {
++                finish()
++                true
++            }
++            R.id.action_edit -> {
++                startActivity(Intent(this, EditProfileActivity::class.java))
++                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
++                true
++            }
++            else -> super.onOptionsItemSelected(item)
++        }
++    }
++
++    override fun onResume() {
++        super.onResume()
++        loadUserData() // Refresh when returning from other activities
++    }
++
++    override fun onBackPressed() {
++        super.onBackPressed()
++        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right)
++    }
++}
+\ No newline at end of file
+Index: app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml b/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+new file mode 100644
+--- /dev/null	(date 1744309721159)
++++ b/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml	(date 1744309721159)
+@@ -0,0 +1,5 @@
++<?xml version="1.0" encoding="utf-8"?>
++<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
++    <background android:drawable="@drawable/ic_launcher_background"/>
++    <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
++</adaptive-icon>
+\ No newline at end of file
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/AndroidManifest.xml b/app/src/main/AndroidManifest.xml
+new file mode 100644
+--- /dev/null	(date 1745349486063)
++++ b/app/src/main/AndroidManifest.xml	(date 1745349486063)
+@@ -0,0 +1,177 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:tools="http://schemas.android.com/tools"
++    package="com.pant.girly">
++
++    <!-- ========== PERMISSIONS ========== -->
++    <!-- Core Permissions -->
++    <uses-permission android:name="android.permission.INTERNET" />
++    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++    <uses-permission android:name="android.permission.WAKE_LOCK" />
++    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
++    <uses-permission android:name="android.permission.VIBRATE" />
++
++    <!-- Location -->
++    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
++    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
++    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
++
++    <!-- Bluetooth/Wearables -->
++    <uses-permission android:name="android.permission.BLUETOOTH" />
++    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
++    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
++    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
++    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
++    <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" />
++
++    <!-- Emergency Features -->
++    <uses-permission android:name="android.permission.SEND_SMS" />
++    <uses-permission android:name="android.permission.CALL_PHONE" />
++    <uses-permission android:name="android.permission.READ_CONTACTS" />
++
++    <!-- Media/Sensors -->
++    <uses-permission android:name="android.permission.CAMERA" />
++    <uses-permission android:name="android.permission.RECORD_AUDIO" />
++    <uses-permission android:name="android.permission.BODY_SENSORS" />
++    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
++
++    <!-- Android 13+ -->
++    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
++    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
++    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
++
++    <!-- Android 14+ -->
++    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
++    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
++    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
++
++    <!-- ========== FEATURES ========== -->
++    <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true" />
++    <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
++    <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
++    <uses-feature android:name="android.hardware.camera" android:required="false" />
++    <uses-feature android:name="android.hardware.location.gps" android:required="false" />
++
++    <!-- ========== QUERIES ========== -->
++    <queries>
++        <!-- For SMS/Calling -->
++        <intent>
++            <action android:name="android.intent.action.DIAL" />
++        </intent>
++        <intent>
++            <action android:name="android.intent.action.SENDTO" />
++            <data android:scheme="smsto" />
++        </intent>
++
++        <!-- For Bluetooth -->
++        <intent>
++            <action android:name="android.bluetooth.adapter.action.REQUEST_ENABLE" />
++        </intent>
++    </queries>
++
++    <application
++        android:name=".AppController"
++        android:allowBackup="true"
++        android:fullBackupContent="@xml/backup_rules"
++        android:icon="@mipmap/ic_launcher"
++        android:label="@string/app_name"
++        android:roundIcon="@mipmap/ic_launcher_round"
++        android:supportsRtl="true"
++        android:theme="@style/AppTheme"
++        android:usesCleartextTraffic="false"
++        tools:ignore="GoogleAppIndexingWarning">
++
++        <!-- ========== METADATA ========== -->
++        <meta-data
++            android:name="com.google.android.geo.API_KEY"
++            android:value="AIzaSyB6YuQFTRqCakdIOoR0D00cVgHZfNWvOos" />
++
++        <!-- ========== ACTIVITIES ========== -->
++        <!-- Main Flow -->
++        <activity
++            android:name=".MainActivity"
++            android:exported="true"
++            android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
++            <intent-filter>
++                <action android:name="android.intent.action.MAIN" />
++                <category android:name="android.intent.category.LAUNCHER" />
++            </intent-filter>
++        </activity>
++
++        <!-- Authentication -->
++        <activity android:name=".LoginActivity"
++            android:exported="true"
++            android:windowSoftInputMode="adjustResize" />
++
++        <!-- [All other activities...] -->
++        <!-- User Flow -->
++        <activity android:name=".UserFormActivity" android:exported="true" android:windowSoftInputMode="adjustResize" />
++        <activity android:name=".ProfileActivity" android:exported="true" />
++        <activity android:name=".EditProfileActivity" android:exported="true" android:windowSoftInputMode="adjustResize" />
++        <activity android:name=".UserInfoActivity" android:exported="true" />
++        <activity android:name=".RegisteredAddressActivity" android:exported="true" />
++
++        <!-- SOS & Safety Features -->
++        <activity android:name=".SosTriggerActivity" android:exported="true" android:theme="@style/EmergencyTheme" />
++        <activity android:name=".SOSActivity" android:exported="true" android:theme="@style/EmergencyTheme" />
++        <activity android:name=".SOSAlertsActivity" android:exported="true" />
++        <activity android:name=".LiveVideoActivity" android:exported="true" />
++        <activity android:name=".LiveTrackingActivity" android:exported="true" />
++        <activity android:name=".AnonymousReportActivity" android:exported="true" android:windowSoftInputMode="adjustResize" />
++
++        <!-- Watch & Bluetooth -->
++        <activity android:name=".WatchActivity" android:exported="true" />
++
++        <!-- Emergency Contacts -->
++        <activity android:name=".EmergencyContactsActivity" android:exported="true" android:theme="@style/AppTheme" />
++
++        <!-- App Settings -->
++        <activity android:name=".AppSettingsActivity" android:exported="true" />
++        <activity android:name=".ResetPasswordActivity" android:exported="true" />
++
++        <!-- ========== SERVICES ========== -->
++        <service
++            android:name=".ForegroundShakeService"
++            android:enabled="true"
++            android:exported="false"
++            android:foregroundServiceType="specialUse"
++            android:permission="android.permission.FOREGROUND_SERVICE" />
++
++        <service
++            android:name=".services.LocationService"
++            android:exported="false"
++            android:foregroundServiceType="location" />
++
++        <!-- ========== RECEIVERS ========== -->
++        <receiver
++            android:name=".BootReceiver"
++            android:enabled="true"
++            android:exported="true">
++            <intent-filter>
++                <action android:name="android.intent.action.BOOT_COMPLETED" />
++                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
++            </intent-filter>
++        </receiver>
++
++        <!-- ========== PROVIDERS ========== -->
++        <provider
++            android:name="androidx.startup.InitializationProvider"
++            android:authorities="${applicationId}.androidx-startup"
++            android:exported="false"
++            tools:node="merge">
++            <meta-data
++                android:name="androidx.work.WorkManagerInitializer"
++                android:value="androidx.startup"
++                tools:node="remove" />
++        </provider>
++        <provider
++            android:name="androidx.core.content.FileProvider"
++            android:authorities="${applicationId}.provider"
++            android:exported="false"
++            android:grantUriPermissions="true">
++            <meta-data
++                android:name="android.support.FILE_PROVIDER_PATHS"
++                android:resource="@xml/file_paths" />
++        </provider>
++    </application>
++</manifest>
+\ No newline at end of file
+Index: app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml b/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+new file mode 100644
+--- /dev/null	(date 1744309721110)
++++ b/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml	(date 1744309721110)
+@@ -0,0 +1,5 @@
++<?xml version="1.0" encoding="utf-8"?>
++<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
++    <background android:drawable="@drawable/ic_launcher_background"/>
++    <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
++</adaptive-icon>
+\ No newline at end of file
+Index: app/src/main/java/com/pant/girly/MainActvity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/pant/girly/MainActvity.kt b/app/src/main/java/com/pant/girly/MainActvity.kt
+new file mode 100644
+--- /dev/null	(date 1745353930332)
++++ b/app/src/main/java/com/pant/girly/MainActvity.kt	(date 1745353930332)
+@@ -0,0 +1,167 @@
++package com.pant.girly
++
++import android.annotation.SuppressLint
++import android.content.Intent
++import android.os.Build
++import android.os.Bundle
++import android.view.Menu
++import android.view.MenuItem
++import android.view.WindowInsets
++import android.view.WindowManager
++import android.widget.Button
++import android.widget.Switch
++import android.widget.TextView
++import android.widget.Toast
++import androidx.appcompat.app.AppCompatActivity
++import androidx.appcompat.widget.Toolbar
++import androidx.cardview.widget.CardView
++import com.google.android.material.bottomnavigation.BottomNavigationView
++import com.google.firebase.auth.FirebaseAuth
++import com.google.firebase.database.FirebaseDatabase
++
++class MainActivity : AppCompatActivity() {
++
++    private lateinit var sosButton: Button
++    private lateinit var safetyModeSwitch: Switch
++    private lateinit var welcomeTextView: TextView
++    private lateinit var bottomNavigation: BottomNavigationView
++
++    private lateinit var cardLiveTracking: CardView
++    private lateinit var cardAnonymousReport: CardView
++    private lateinit var cardWatch: CardView
++
++    private lateinit var auth: FirebaseAuth
++    private lateinit var database: FirebaseDatabase
++
++    @SuppressLint("MissingInflatedId")
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        setContentView(R.layout.activity_main)
++
++        // Fullscreen mode - Try this after setContentView
++        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
++            window.insetsController?.hide(WindowInsets.Type.statusBars())
++        } else {
++            window.setFlags(
++                WindowManager.LayoutParams.FLAG_FULLSCREEN,
++                WindowManager.LayoutParams.FLAG_FULLSCREEN
++            )
++        }
++
++        // Toolbar
++        val toolbar: Toolbar = findViewById(R.id.toolbar)
++        setSupportActionBar(toolbar)
++
++        // Firebase
++        auth = FirebaseAuth.getInstance()
++        database = FirebaseDatabase.getInstance()
++
++        // Views
++        welcomeTextView = findViewById(R.id.welcomeTextView)
++        sosButton = findViewById(R.id.sosButton)
++        safetyModeSwitch = findViewById(R.id.safetyModeSwitch)
++        bottomNavigation = findViewById(R.id.bottom_navigation)
++
++        cardLiveTracking = findViewById(R.id.cardLiveTracking)
++        cardAnonymousReport = findViewById(R.id.cardAnonymousReport)
++        cardWatch = findViewById(R.id.cardWatch)
++
++        // Check Login
++        if (auth.currentUser == null) {
++            redirectToLogin()
++        } else {
++            checkIfUserFormIsFilled()
++        }
++
++        // SOS Trigger
++        sosButton.setOnClickListener {
++            val intent = Intent(this, SosTriggerActivity::class.java)
++            startActivity(intent)
++        }
++        val intent = Intent(this, ForegroundShakeService::class.java)
++        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
++            startForegroundService(intent)
++        } else {
++            startService(intent)
++        }
++
++
++        // Safety Mode Switch logic
++        safetyModeSwitch.setOnCheckedChangeListener { _, isChecked ->
++            val message = if (isChecked) "Safety Mode ON" else "Safety Mode OFF"
++            Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
++        }
++
++        // Live Tracking
++        cardLiveTracking.setOnClickListener {
++            val intent = Intent(this, LiveTrackingActivity::class.java)
++            startActivity(intent)
++        }
++
++        // Anonymous Report
++        cardAnonymousReport.setOnClickListener {
++            val intent = Intent(this, AnonymousReportActivity::class.java)
++            startActivity(intent)
++        }
++        // Watch
++        cardWatch.setOnClickListener {
++            val intent = Intent(this, WatchActivity::class.java)
++            startActivity(intent)
++        }
++
++        // Bottom Navigation
++        bottomNavigation.setOnItemSelectedListener { item ->
++            when (item.itemId) {
++                R.id.nav_home -> true
++                R.id.nav_community -> {
++                    Toast.makeText(this, "Community Coming Soon", Toast.LENGTH_SHORT).show()
++                    true
++                }
++                R.id.nav_me -> {
++                    startActivity(Intent(this, ProfileActivity::class.java))
++                    true
++                }
++                else -> false
++            }
++        }
++    }
++
++    private fun checkIfUserFormIsFilled() {
++        val userId = auth.currentUser?.uid ?: return
++        val userRef = database.getReference("Users").child(userId)
++
++        userRef.get().addOnSuccessListener { snapshot ->
++            if (snapshot.exists()) {
++                val name = snapshot.child("name").value?.toString() ?: "User"
++                welcomeTextView.text = "Welcome, $name!"
++            } else {
++                startActivity(Intent(this, UserFormActivity::class.java))
++                finish()
++            }
++        }.addOnFailureListener {
++            Toast.makeText(this, "Error checking profile", Toast.LENGTH_SHORT).show()
++        }
++    }
++
++    private fun redirectToLogin() {
++        startActivity(Intent(this, LoginActivity::class.java))
++        finish()
++    }
++
++    // Inflate only the settings option in the Toolbar
++    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
++        menuInflater.inflate(R.menu.toolbar_menu, menu)
++        return true
++    }
++
++    // Handle menu item clicks
++    override fun onOptionsItemSelected(item: MenuItem): Boolean {
++        return when (item.itemId) {
++            R.id.action_settings -> {
++                Toast.makeText(this, "Settings Coming Soon", Toast.LENGTH_SHORT).show()
++                true
++            }
++            else -> super.onOptionsItemSelected(item)
++        }
++    }
++}
+\ No newline at end of file
+Index: app/build.gradle.kts
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/build.gradle.kts b/app/build.gradle.kts
+new file mode 100644
+--- /dev/null	(date 1745001014640)
++++ b/app/build.gradle.kts	(date 1745001014640)
+@@ -0,0 +1,97 @@
++plugins {
++    id("com.android.application")
++    id("org.jetbrains.kotlin.android") // ✅ Make sure this is present
++    id("com.google.gms.google-services") // ✅ Firebase
++}
++
++
++android {
++    namespace = "com.pant.girly"
++    compileSdk = 34
++
++    defaultConfig {
++        applicationId = "com.pant.girly"
++        minSdk = 24
++        targetSdk = 34
++        versionCode = 1
++        versionName = "1.0"
++
++        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
++    }
++
++    buildTypes {
++        release {
++            proguardFiles(
++                getDefaultProguardFile("proguard-android-optimize.txt"),
++                "proguard-rules.pro"
++            )
++        }
++    }
++    android {
++        buildFeatures {
++            viewBinding = true  // ✅ Correct Kotlin DSL syntax
++        }
++    }
++
++    dependencies {
++        implementation("androidx.core:core-ktx:1.12.0")
++        implementation("androidx.appcompat:appcompat:1.6.1")
++        implementation("com.google.android.material:material:1.10.0")
++        implementation("androidx.constraintlayout:constraintlayout:2.1.4")
++        implementation("androidx.appcompat:appcompat:1.6.1")
++
++        // Firebase Dependencies
++        implementation(platform("com.google.firebase:firebase-bom:32.7.3"))
++        implementation("com.google.firebase:firebase-auth-ktx")
++        implementation("com.google.firebase:firebase-firestore-ktx")
++        implementation("com.google.firebase:firebase-storage-ktx")
++        implementation("com.google.firebase:firebase-auth-ktx")
++        testImplementation("junit:junit:4.13.2")
++        androidTestImplementation("androidx.test.ext:junit:1.1.5")
++        androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
++        implementation ("com.google.firebase:firebase-auth:22.3.1")
++        implementation ("com.google.firebase:firebase-firestore:24.10.1")
++        implementation ("com.google.firebase:firebase-database:20.2.2")
++        implementation ("com.github.bumptech.glide:glide:4.15.1")
++        kapt ("com.github.bumptech.glide:compiler:4.15.1")
++        implementation ("com.google.firebase:firebase-auth:22.3.1")
++        implementation ("com.google.firebase:firebase-appcheck-playintegrity:17.0.0")
++        implementation ("com.google.firebase:firebase-auth-ktx:22.2.0")
++        implementation ("com.google.firebase:firebase-appcheck-playintegrity:16.0.0")
++        implementation ("de.hdodenhof:circleimageview:3.1.0")
++        implementation ("com.google.android.gms:play-services-maps:18.2.0")
++        implementation ("com.google.android.gms:play-services-location:21.0.1")
++        implementation ("androidx.camera:camera-camera2:1.2.0")
++        implementation ("androidx.camera:camera-lifecycle:1.2.0")
++        implementation ("androidx.camera:camera-view:1.2.0")
++        implementation("com.google.firebase:firebase-storage-ktx:20.3.0")
++        implementation ("com.google.android.material:material:1.6.0")
++
++
++
++    }
++
++    android {
++        compileOptions {
++            sourceCompatibility(JavaVersion.VERSION_1_8)
++            targetCompatibility(JavaVersion.VERSION_1_8)
++        }
++
++        kotlinOptions {
++            jvmTarget = "1.8"
++        }
++    }
++}
++apply(plugin = "com.google.gms.google-services")
++dependencies {
++    implementation(libs.androidx.cardview)
++    implementation(libs.androidx.appcompat)
++    implementation(libs.androidx.preference)
++    implementation(libs.material)
++    implementation(libs.play.services.location)
++    implementation(libs.play.services.maps)
++}
++
++fun kapt(s: String) {
++
++}
+Index: app/src/main/java/com/pant/girly/LoginActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/pant/girly/LoginActivity.kt b/app/src/main/java/com/pant/girly/LoginActivity.kt
+new file mode 100644
+--- /dev/null	(date 1744961550338)
++++ b/app/src/main/java/com/pant/girly/LoginActivity.kt	(date 1744961550338)
+@@ -0,0 +1,278 @@
++package com.pant.girly
++
++import android.annotation.SuppressLint
++import android.content.Intent
++import android.os.Bundle
++import android.text.InputType
++import android.view.MotionEvent
++import android.view.View
++import android.widget.*
++import androidx.appcompat.app.AppCompatActivity
++import com.google.firebase.FirebaseException
++import com.google.firebase.auth.*
++import java.util.concurrent.TimeUnit
++
++class LoginActivity : AppCompatActivity() {
++
++    private lateinit var auth: FirebaseAuth
++    private lateinit var loginOptions: RadioGroup
++    private lateinit var emailPasswordOption: RadioButton
++    private lateinit var mobileOtpOption: RadioButton
++    private lateinit var emailField: EditText
++    private lateinit var passwordField: EditText
++    private lateinit var passwordLayout: RelativeLayout
++    private lateinit var otpField: EditText
++    private lateinit var loginButton: Button
++    private lateinit var sendOtpButton: Button
++    private lateinit var verifyOtpButton: Button
++    private lateinit var textSignUp: TextView
++    private lateinit var forgotPassword: TextView
++    private lateinit var progressBar: ProgressBar
++
++    private var verificationId: String? = null
++    private var isPasswordVisible = false
++
++    @SuppressLint("MissingInflatedId")
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        setContentView(R.layout.activity_login)
++
++        // Initialize FirebaseAuth
++        auth = FirebaseAuth.getInstance()
++
++        // Initialize views
++        loginOptions = findViewById(R.id.loginOptions)
++        emailPasswordOption = findViewById(R.id.emailPasswordOption)
++        mobileOtpOption = findViewById(R.id.mobileOtpOption)
++        emailField = findViewById(R.id.emailField)
++        passwordField = findViewById(R.id.passwordField)
++        passwordLayout = findViewById(R.id.passwordLayout)
++        otpField = findViewById(R.id.otpField)
++        loginButton = findViewById(R.id.loginButton)
++        sendOtpButton = findViewById(R.id.sendOtpButton)
++        verifyOtpButton = findViewById(R.id.verifyOtpButton)
++        textSignUp = findViewById(R.id.textSignUp)
++        forgotPassword = findViewById(R.id.forgotPassword)
++        progressBar = findViewById(R.id.progressBar)
++
++        // Password visibility toggle using drawableEnd
++        passwordField.setOnTouchListener { _, event ->
++            val DRAWABLE_END = 2
++            if (event.action == MotionEvent.ACTION_UP) {
++                val drawableEnd = passwordField.compoundDrawables[DRAWABLE_END]
++                if (drawableEnd != null && event.rawX >= (passwordField.right - drawableEnd.bounds.width() - passwordField.paddingEnd)) {
++                    isPasswordVisible = !isPasswordVisible
++                    if (isPasswordVisible) {
++                        passwordField.inputType =
++                            InputType.TYPE_CLASS_TEXT or InputType.TYPE_TEXT_VARIATION_VISIBLE_PASSWORD
++                        passwordField.setCompoundDrawablesWithIntrinsicBounds(
++                            0,
++                            0,
++                            R.drawable.ic_eye_open,
++                            0
++                        )
++                    } else {
++                        passwordField.inputType =
++                            InputType.TYPE_CLASS_TEXT or InputType.TYPE_TEXT_VARIATION_PASSWORD
++                        passwordField.setCompoundDrawablesWithIntrinsicBounds(
++                            0,
++                            0,
++                            R.drawable.ic_eye_closed,
++                            0
++                        )
++                    }
++                    passwordField.setSelection(passwordField.text.length)
++                    return@setOnTouchListener true
++                }
++            }
++            false
++        }
++
++        // Auto login if already authenticated
++        if (auth.currentUser != null) {
++            startActivity(Intent(this, MainActivity::class.java))
++            finish()
++        }
++
++        // Initially show email/password fields and hide OTP related fields
++        passwordLayout.visibility = View.VISIBLE
++        loginButton.visibility = View.VISIBLE
++        sendOtpButton.visibility = View.GONE
++        verifyOtpButton.visibility = View.GONE
++        otpField.visibility = View.GONE
++        emailField.hint = "Email"
++        emailField.inputType = InputType.TYPE_TEXT_VARIATION_EMAIL_ADDRESS
++
++        // Handle login option changes
++        loginOptions.setOnCheckedChangeListener { _, checkedId ->
++            when (checkedId) {
++                R.id.emailPasswordOption -> {
++                    passwordLayout.visibility = View.VISIBLE
++                    loginButton.visibility = View.VISIBLE
++                    sendOtpButton.visibility = View.GONE
++                    verifyOtpButton.visibility = View.GONE
++                    otpField.visibility = View.GONE
++                    emailField.hint = "Email"
++                    emailField.inputType = InputType.TYPE_TEXT_VARIATION_EMAIL_ADDRESS
++                }
++                R.id.mobileOtpOption -> {
++                    passwordLayout.visibility = View.GONE
++                    loginButton.visibility = View.GONE
++                    sendOtpButton.visibility = View.VISIBLE
++                    verifyOtpButton.visibility = View.VISIBLE
++                    otpField.visibility = View.VISIBLE
++                    emailField.hint = "Mobile Number"
++                    emailField.inputType = InputType.TYPE_CLASS_PHONE
++                }
++            }
++        }
++
++        // Email/Password Login
++        loginButton.setOnClickListener {
++            val email = emailField.text.toString().trim()
++            val password = passwordField.text.toString().trim()
++
++            if (email.isEmpty() || password.isEmpty()) {
++                Toast.makeText(this, "Please fill all fields", Toast.LENGTH_SHORT).show()
++                return@setOnClickListener
++            }
++
++            progressBar.visibility = View.VISIBLE
++
++            auth.signInWithEmailAndPassword(email, password)
++                .addOnCompleteListener { task ->
++                    progressBar.visibility = View.GONE
++                    if (task.isSuccessful) {
++                        Toast.makeText(this, "Login Successful", Toast.LENGTH_SHORT).show()
++                        startActivity(Intent(this, MainActivity::class.java))
++                        finish()
++                    } else {
++                        Toast.makeText(this, "Login Failed: ${task.exception?.message}", Toast.LENGTH_SHORT).show()
++                    }
++                }
++        }
++
++        // Send OTP (for Mobile Login)
++        sendOtpButton.setOnClickListener {
++            val mobile = emailField.text.toString().trim()
++            if (mobile.isEmpty()) {
++                Toast.makeText(this, "Enter Mobile Number", Toast.LENGTH_SHORT).show()
++                return@setOnClickListener
++            }
++
++            progressBar.visibility = View.VISIBLE
++            sendMobileOTP(mobile)
++        }
++
++        // Verify OTP (for Mobile Login)
++        verifyOtpButton.setOnClickListener {
++            val otp = otpField.text.toString().trim()
++            if (otp.isEmpty() || verificationId == null) {
++                Toast.makeText(this, "Enter OTP", Toast.LENGTH_SHORT).show()
++                return@setOnClickListener
++            }
++            progressBar.visibility = View.VISIBLE
++            verifyOTP(otp)
++        }
++
++        // Navigate to SignUp
++        textSignUp.setOnClickListener {
++            startActivity(Intent(this, SignupActivity::class.java))
++        }
++
++        // Navigate to Forgot Password
++        forgotPassword.setOnClickListener {
++            startActivity(Intent(this, ForgotPasswordActivity::class.java))
++        }
++    }
++
++    // Send Sign-In Link to Email (Magic Link Style OTP - Not directly used in UI anymore)
++    private fun sendEmailOTP(email: String) {
++        progressBar.visibility = View.VISIBLE
++
++        auth.fetchSignInMethodsForEmail(email).addOnCompleteListener { task ->
++            progressBar.visibility = View.GONE
++
++            if (task.isSuccessful) {
++                val signInMethods = task.result?.signInMethods
++                if (signInMethods.isNullOrEmpty()) {
++                    Toast.makeText(this, "Email not registered!", Toast.LENGTH_SHORT).show()
++                    return@addOnCompleteListener
++                }
++
++                FirebaseAuth.getInstance().sendSignInLinkToEmail(email, getActionCodeSettings())
++                    .addOnCompleteListener { emailTask ->
++                        if (emailTask.isSuccessful) {
++                            Toast.makeText(this, "Sign-in link sent to your email!", Toast.LENGTH_SHORT).show()
++                        } else {
++                            Toast.makeText(this, "Failed to send sign-in link!", Toast.LENGTH_SHORT).show()
++                        }
++                    }
++            } else {
++                Toast.makeText(this, "Error checking email!", Toast.LENGTH_SHORT).show()
++            }
++        }
++    }
++
++    // Setup email OTP Action Code
++    private fun getActionCodeSettings(): ActionCodeSettings {
++        return ActionCodeSettings.newBuilder()
++            .setUrl("https://yourapp.page.link/verify") // Replace with your actual dynamic link
++            .setHandleCodeInApp(true)
++            .setAndroidPackageName("com.pant.girly", true, null)
++            .build()
++    }
++
++    // Send OTP to Mobile Number
++    private fun sendMobileOTP(mobile: String) {
++        progressBar.visibility = View.VISIBLE
++        val phoneNumber = "+91$mobile"
++
++        val options = PhoneAuthOptions.newBuilder(auth)
++            .setPhoneNumber(phoneNumber)
++            .setTimeout(60L, TimeUnit.SECONDS)
++            .setActivity(this)
++            .setCallbacks(object : PhoneAuthProvider.OnVerificationStateChangedCallbacks() {
++                override fun onVerificationCompleted(credential: PhoneAuthCredential) {
++                    progressBar.visibility = View.GONE
++                    signInWithCredential(credential)
++                }
++
++                override fun onVerificationFailed(e: FirebaseException) {
++                    progressBar.visibility = View.GONE
++                    Toast.makeText(this@LoginActivity, "Verification Failed: ${e.message}", Toast.LENGTH_SHORT).show()
++                }
++
++                override fun onCodeSent(verificationId: String, token: PhoneAuthProvider.ForceResendingToken) {
++                    progressBar.visibility = View.GONE
++                    this@LoginActivity.verificationId = verificationId
++                    Toast.makeText(this@LoginActivity, "OTP sent to mobile!", Toast.LENGTH_SHORT).show()
++                }
++            })
++            .build()
++
++        PhoneAuthProvider.verifyPhoneNumber(options)
++    }
++
++    // Verify entered OTP
++    private fun verifyOTP(otp: String) {
++        progressBar.visibility = View.VISIBLE
++        val credential = PhoneAuthProvider.getCredential(verificationId!!, otp)
++        signInWithCredential(credential)
++    }
++
++    // Sign in using PhoneAuthCredential
++    private fun signInWithCredential(credential: PhoneAuthCredential) {
++        auth.signInWithCredential(credential)
++            .addOnCompleteListener { task ->
++                progressBar.visibility = View.GONE
++                if (task.isSuccessful) {
++                    Toast.makeText(this, "Login Successful!", Toast.LENGTH_SHORT).show()
++                    startActivity(Intent(this, MainActivity::class.java))
++                    finish()
++                } else {
++                    Toast.makeText(this, "Login Failed!", Toast.LENGTH_SHORT).show()
++                }
++            }
++    }
++}
+\ No newline at end of file
+Index: build.gradle.kts
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/build.gradle.kts b/build.gradle.kts
+new file mode 100644
+--- /dev/null	(date 1742365278694)
++++ b/build.gradle.kts	(date 1742365278694)
+@@ -0,0 +1,21 @@
++// Top-level build file where you can add configuration options common to all sub-projects/modules.
++plugins {
++    alias(libs.plugins.android.application) apply false
++    alias(libs.plugins.kotlin.android) apply false
++
++    id("com.android.library") version "8.1.2" apply false
++
++}
++
++buildscript {
++    repositories {
++        google()
++        mavenCentral()
++    }
++    dependencies {
++        classpath("com.google.gms:google-services:4.4.0")  // Latest version (update if needed)
++        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.21") // Update latest Kotlin version
++    }
++}
++
++
+Index: .idea/migrations.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/migrations.xml b/.idea/migrations.xml
+new file mode 100644
+--- /dev/null	(date 1742273489926)
++++ b/.idea/migrations.xml	(date 1742273489926)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectMigrations">
++    <option name="MigrateToGradleLocalJavaHome">
++      <set>
++        <option value="$PROJECT_DIR$" />
++      </set>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: app/src/main/res/layout/activity_login.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_login.xml b/app/src/main/res/layout/activity_login.xml
+new file mode 100644
+--- /dev/null	(date 1744961641221)
++++ b/app/src/main/res/layout/activity_login.xml	(date 1744961641221)
+@@ -0,0 +1,162 @@
++<?xml version="1.0" encoding="utf-8"?>
++<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:background="#FFF5F8"
++    android:fillViewport="true">
++
++    <LinearLayout
++        android:orientation="vertical"
++        android:gravity="center_horizontal"
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:padding="24dp">
++
++        <ImageView
++            android:id="@+id/appLogo"
++            android:layout_width="120dp"
++            android:layout_height="120dp"
++            android:layout_marginTop="32dp"
++            android:src="@drawable/app_logo"
++            android:contentDescription="App Logo" />
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Login"
++            android:textSize="26sp"
++            android:textStyle="bold"
++            android:textColor="#D81B60"
++            android:layout_marginTop="16dp"
++            android:layout_marginBottom="24dp" />
++
++        <RadioGroup
++            android:id="@+id/loginOptions"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:orientation="horizontal"
++            android:layout_marginBottom="16dp">
++
++            <RadioButton
++                android:id="@+id/emailPasswordOption"
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Email/Password"
++                android:checked="true" />
++
++            <RadioButton
++                android:id="@+id/mobileOtpOption"
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Mobile OTP"
++                android:layout_marginStart="16dp" />
++
++        </RadioGroup>
++
++        <EditText
++            android:id="@+id/emailField"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:hint="Email or Mobile"
++            android:inputType="textEmailAddress"
++            android:textColor="#000000"
++            android:background="@drawable/edittext_background"
++            android:padding="12dp"
++            android:layout_marginBottom="16dp" />
++
++        <RelativeLayout
++            android:id="@+id/passwordLayout"
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:layout_marginBottom="8dp">
++
++            <EditText
++                android:id="@+id/passwordField"
++                android:layout_width="match_parent"
++                android:layout_height="50dp"
++                android:hint="Password"
++                android:inputType="textPassword"
++                android:background="@drawable/edittext_background"
++                android:padding="12dp"
++                android:textColor="#000000"
++                android:drawableEnd="@drawable/ic_eye_closed"
++                android:drawablePadding="8dp"
++                android:layout_marginBottom="0dp" />
++        </RelativeLayout>
++
++        <TextView
++            android:id="@+id/forgotPassword"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Forgot Password?"
++            android:textColor="#1976D2"
++            android:textSize="14sp"
++            android:layout_gravity="end"
++            android:paddingEnd="8dp"
++            android:paddingTop="4dp"
++            android:paddingBottom="8dp"
++            android:clickable="true"
++            android:focusable="true"
++            android:layout_marginBottom="16dp"/>
++
++        <EditText
++            android:id="@+id/otpField"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:hint="Enter OTP"
++            android:inputType="number"
++            android:textColor="#000000"
++            android:background="@drawable/edittext_background"
++            android:padding="12dp"
++            android:layout_marginBottom="16dp"
++            android:visibility="gone"/>
++
++        <Button
++            android:id="@+id/loginButton"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:text="Login"
++            android:backgroundTint="#D81B60"
++            android:textColor="#FFFFFF"
++            android:layout_marginBottom="12dp" />
++
++        <Button
++            android:id="@+id/sendOtpButton"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:text="Send OTP"
++            android:backgroundTint="#1976D2"
++            android:textColor="#FFFFFF"
++            android:layout_marginBottom="12dp"
++            android:visibility="gone"/>
++
++        <Button
++            android:id="@+id/verifyOtpButton"
++            android:layout_width="match_parent"
++            android:layout_height="50dp"
++            android:text="Verify OTP"
++            android:backgroundTint="#388E3C"
++            android:textColor="#FFFFFF"
++            android:layout_marginBottom="24dp"
++            android:visibility="gone"/>
++
++        <TextView
++            android:id="@+id/textSignUp"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Don't have an account? Sign up"
++            android:textColor="#D81B60"
++            android:textSize="16sp"
++            android:layout_gravity="center" />
++
++        <ProgressBar
++            android:id="@+id/progressBar"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:visibility="gone"
++            android:layout_gravity="center"
++            style="?android:attr/progressBarStyleLarge"
++            android:layout_marginTop="20dp" />
++    </LinearLayout>
++</ScrollView>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1742273707974)
++++ b/.idea/misc.xml	(date 1742273707974)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/build/classes" />
++  </component>
++  <component name="ProjectType">
++    <option name="id" value="Android" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+new file mode 100644
+--- /dev/null	(date 1742273617967)
++++ b/.idea/compiler.xml	(date 1742273617967)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <bytecodeTargetLevel target="21" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/render.experimental.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/render.experimental.xml b/.idea/render.experimental.xml
+new file mode 100644
+--- /dev/null	(date 1743011349861)
++++ b/.idea/render.experimental.xml	(date 1743011349861)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RenderSettings">
++    <option name="showDecorations" value="true" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/gradle.xml b/.idea/gradle.xml
+new file mode 100644
+--- /dev/null	(date 1742287452958)
++++ b/.idea/gradle.xml	(date 1742287452958)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
++  <component name="GradleSettings">
++    <option name="linkedExternalProjectsSettings">
++      <GradleProjectSettings>
++        <option name="testRunner" value="CHOOSE_PER_TEST" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
++        <option name="modules">
++          <set>
++            <option value="$PROJECT_DIR$" />
++            <option value="$PROJECT_DIR$/app" />
++          </set>
++        </option>
++        <option name="resolveExternalAnnotations" value="false" />
++      </GradleProjectSettings>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/kotlinc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/kotlinc.xml b/.idea/kotlinc.xml
+new file mode 100644
+--- /dev/null	(date 1742273707974)
++++ b/.idea/kotlinc.xml	(date 1742273707974)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="KotlinJpsPluginSettings">
++    <option name="version" value="1.9.24" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1742273377084)
++++ b/.idea/.gitignore	(date 1742273377084)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml

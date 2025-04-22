@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.pant.girly.app-mergeDebugResources-50:/layout/activity_login.xml",
+        "source": "com.pant.girly.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.pant.girly.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.pant.girly.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pant.girly.app-mergeDebugResources-50:/layout/activity_signup.xml",
+        "source": "com.pant.girly.app-main-53:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.pant.girly.app-mergeDebugResources-50:/layout/activity_profile.xml",
+        "source": "com.pant.girly.app-main-53:/layout/activity_profile.xml"
+    }
+]

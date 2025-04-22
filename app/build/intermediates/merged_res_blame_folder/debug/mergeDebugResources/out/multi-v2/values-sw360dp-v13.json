@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pant.girly.app-mergeDebugResources-49:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mspan\\.gradle\\caches\\8.10.2\\transforms\\d0426e07459c0c9f6cf8b522fafc7826\\transformed\\preference-1.2.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

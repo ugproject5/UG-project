@@ -1,0 +1,6 @@
+com.pant.girly.test.app-annotation-experimental-1.4.0-0 C:\Users\mspan\.gradle\caches\8.10.2\transforms\4b1d7e075270eb9af79003c294b0ce84\transformed\annotation-experimental-1.4.0\res
+com.pant.girly.test.app-core-1.5.0-1 C:\Users\mspan\.gradle\caches\8.10.2\transforms\b2c0a8bd5ca11b5853c34b68eeb04462\transformed\core-1.5.0\res
+com.pant.girly.test.app-androidTest-2 C:\Users\mspan\AndroidStudioProjects\Girly\app\build\generated\res\resValues\androidTest\debug
+com.pant.girly.test.app-mergeDebugAndroidTestResources-3 C:\Users\mspan\AndroidStudioProjects\Girly\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pant.girly.test.app-mergeDebugAndroidTestResources-4 C:\Users\mspan\AndroidStudioProjects\Girly\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pant.girly.test.app-debugAndroidTest-5 C:\Users\mspan\AndroidStudioProjects\Girly\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
