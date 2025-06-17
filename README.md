@@ -10,7 +10,3 @@ Girly is an AI-powered application designed to enhance women's safety by integra
 - 🔊 **Voice Command Activation**: Enables hands-free emergency assistance.
 - 📍 **GPS Tracking**: Monitors real-time location for enhanced security.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Mspanti/Girly.git
